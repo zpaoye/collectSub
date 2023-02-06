@@ -142,7 +142,7 @@ if __name__=='__main__':
         t = threading.Thread(target=sub_check, args=(url, bar))
         # 加入线程池并启动
         thread_list.append(t)
-        t.setDaemon(True)
+        # t.setDaemon(True)
         t.start()
     for t in thread_list:
         t.join()
