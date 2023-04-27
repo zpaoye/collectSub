@@ -13,6 +13,7 @@ from pre_check import pre_check
 new_sub_list = []
 new_clash_list = []
 new_v2_list = []
+play_list = []
 
 @logger.catch
 def yaml_check(path_yaml):
@@ -24,7 +25,8 @@ def yaml_check(path_yaml):
         dict_url = {
             "机场订阅":[],
             "clash订阅":[],
-            "v2订阅":[]
+            "v2订阅":[],
+            "开心玩耍":[]
         }
     # with open(path_yaml, 'w',encoding="utf-8") as f:
     #     data = yaml.dump(dict_url, f,allow_unicode=True)
@@ -102,7 +104,9 @@ def sub_check(url,bar):
                         unused = (total - upload - download) / 1024 / 1024 / 1024
                         unused_rounded = round(unused, 2)
                         if unused_rounded > 0:
-                            new_sub_list.append('可用流量:' + str(unused_rounded) + 'GB     ' + url)
+                            new_sub_list.append(url)
+                            play_list.append('可用流量:' + str(unused_rounded) + 'GB     ' + url)
+                            
                 except:
                     # 判断是否为clash
                     try:
@@ -167,5 +171,6 @@ if __name__=='__main__':
     dict_url.update({'机场订阅':new_sub_list})
     dict_url.update({'clash订阅': new_clash_list})
     dict_url.update({'v2订阅': new_v2_list})
+    dict_url.update({'开心玩耍': play_list})
     with open(path_yaml, 'w',encoding="utf-8") as f:
         data = yaml.dump(dict_url, f,allow_unicode=True)
