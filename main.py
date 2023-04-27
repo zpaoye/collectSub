@@ -95,7 +95,13 @@ def sub_check(url,bar):
                 try: #有流量信息
                     info = res.headers['subscription-userinfo']
                     info_num = re.findall('\d+',info)
-                    new_sub_list.append(url)
+                    upload = int(info_num[0])
+                    download = int(info_num[1])
+                    total = int(info_num[2])
+                    unused = (total - upload - download) / 1024 / 1024 / 1024
+                    unused_rounded = round(unused, 2)
+                    if unused_rounded > 0:
+                        new_sub_list.append(str(unused_rounded) + 'GB  ' + url)
                 except:
                     # 判断是否为clash
                     try:
