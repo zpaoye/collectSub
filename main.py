@@ -105,8 +105,7 @@ def sub_check(url,bar):
                         unused_rounded = round(unused, 2)
                         if unused_rounded > 0:
                             new_sub_list.append(url)
-                            play_list.append('可用流量:' + str(unused_rounded) + 'GB     ' + url)
-                            
+                            play_list.append('可用流量:' + str(unused_rounded) + ' GB                    ' + url)
                 except:
                     # 判断是否为clash
                     try:
