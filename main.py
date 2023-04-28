@@ -167,6 +167,7 @@ if __name__=='__main__':
     new_sub_list = list(set(new_sub_list))
     new_clash_list = list(set(new_clash_list))
     new_v2_list = list(set(new_v2_list))
+    play_list = list(set(play_list))
     dict_url.update({'机场订阅':new_sub_list})
     dict_url.update({'clash订阅': new_clash_list})
     dict_url.update({'v2订阅': new_v2_list})
