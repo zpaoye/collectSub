@@ -41,6 +41,12 @@ jobs:
     - name: 更新pip
       run: |
         pip install --upgrade pip
+    - name: 安装Cython
+      run: |
+        pip install cython
+    - name: 删除构建缓存文件
+      run: |
+        pip cache purge
     - name: 安装依赖
       run: |
         pip install -r ./requirements.txt
