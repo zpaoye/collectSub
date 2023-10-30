@@ -38,6 +38,9 @@ jobs:
     - name: 设置时区
       run: sudo timedatectl set-timezone 'Asia/Shanghai'
 
+    - name: 更新pip
+      run: |
+        pip install --upgrade pip
     - name: 安装依赖
       run: |
         pip install -r ./requirements.txt
