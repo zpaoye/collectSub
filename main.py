@@ -240,5 +240,5 @@ def update_today_sub():
     sub_update(url_list,path_yaml)
 
 if __name__=='__main__':
-    # update_today_sub()
+    update_today_sub()
     merge_sub()
