@@ -8,15 +8,18 @@ from loguru import logger
 from tqdm import tqdm
 from retry import retry
 
-from pre_check import pre_check
+from pre_check import pre_check,get_sub_all
 
 new_sub_list = []
 new_clash_list = []
 new_v2_list = []
 play_list = []
 
+re_str = "https?://[-A-Za-z0-9+&@#/%?=~_|!:,.;]+[-A-Za-z0-9+&@#/%=~_|]"
+thread_max_num = threading.Semaphore(32)  # 32线程
+
 @logger.catch
-def yaml_check(path_yaml):
+def load_sub_yaml(path_yaml):
     print(os.path.isfile(path_yaml))
     if os.path.isfile(path_yaml): #存在，非第一次
         with open(path_yaml,encoding="UTF-8") as f:
@@ -32,6 +35,7 @@ def yaml_check(path_yaml):
     #     data = yaml.dump(dict_url, f,allow_unicode=True)
     logger.info('读取文件成功')
     return dict_url
+
 
 @logger.catch
 def get_config():
@@ -50,7 +54,7 @@ def get_channel_http(channel_url):
     try:
         with requests.post(channel_url) as resp:
             data = resp.text
-        url_list = re.findall("https?://[-A-Za-z0-9+&@#/%?=~_|!:,.;]+[-A-Za-z0-9+&@#/%=~_|]", data)  # 使用正则表达式查找订阅链接并创建列表
+        url_list = re.findall(re_str, data)  # 使用正则表达式查找订阅链接并创建列表
         logger.info(channel_url+'\t获取成功')
     except Exception as e:
         logger.warning(channel_url+'\t获取失败')
@@ -132,19 +136,39 @@ def sub_check(url,bar):
             pass
         bar.update(1)
 
-if __name__=='__main__':
-    path_yaml = pre_check()
-    dict_url = yaml_check(path_yaml)
-    # print(dict_url)
+def get_url_form_channel():
     list_tg = get_config()
     logger.info('读取config成功')
     #循环获取频道订阅
     url_list = []
+
     for channel_url in list_tg:
         temp_list = get_channel_http(channel_url)
         url_list.extend(temp_list)
+
+    return url_list
+
+def get_url_form_yaml(yaml_file):
+    dict_url = load_sub_yaml(yaml_file)
+
+    sub_list = dict_url['机场订阅']
+    clash_list = dict_url['clash订阅']
+    v2_list = dict_url['v2订阅']
+    play_list = dict_url['开心玩耍']
+
+    url_list = []
+    url_list.extend(sub_list)
+    url_list.extend(clash_list)
+    url_list.extend(v2_list)
+    url_list.extend(play_list)
+    url_list = re.findall(re_str, str(url_list))
+
+    return url_list
+
+# 订阅筛选
+def start_check(url_list):
     logger.info('开始筛选---')
-    thread_max_num = threading.Semaphore(32)  # 32线程
+    
     bar = tqdm(total=len(url_list), desc='订阅筛选：')
     thread_list = []
     for url in url_list:
@@ -158,6 +182,11 @@ if __name__=='__main__':
         t.join()
     bar.close()
     logger.info('筛选完成')
+
+def sub_update(url_list, path_yaml):
+    start_check(url_list)
+    dict_url = load_sub_yaml(path_yaml)
+
     old_sub_list = dict_url['机场订阅']
     old_clash_list = dict_url['clash订阅']
     old_v2_list = dict_url['v2订阅']
@@ -174,3 +203,17 @@ if __name__=='__main__':
     dict_url.update({'开心玩耍': play_list})
     with open(path_yaml, 'w',encoding="utf-8") as f:
         data = yaml.dump(dict_url, f,allow_unicode=True)
+# 合并筛选
+def merge_sub():
+    path_yaml = get_sub_all()
+    url_list = get_url_form_yaml(path_yaml)
+    sub_update(url_list,path_yaml)
+
+def update_today_sub():
+    url_list = get_url_form_channel()
+    path_yaml = pre_check()
+    sub_update(url_list,path_yaml)
+
+if __name__=='__main__':
+    update_today_sub()
+    merge_sub()
