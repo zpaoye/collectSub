@@ -104,6 +104,7 @@ def sub_check(url,bar):
         def start_check(url):
             res=requests.get(url,headers=headers,timeout=10)#设置5秒超时防止卡死
             if res.status_code == 200:
+                global new_sub_list,new_clash_list,new_v2_list,play_list
                 try: #有流量信息
                     info = res.headers['subscription-userinfo']
                     info_num = re.findall('\d+',info)
@@ -195,7 +196,8 @@ def sub_update(url_list, path_yaml):
     if len(url_list) == 0:
         logger.info('没有需要更新的数据')
         return 
-    
+    global new_sub_list,new_clash_list,new_v2_list,play_list
+
     new_sub_list = []
     new_clash_list = []
     new_v2_list = []
@@ -223,9 +225,14 @@ def sub_update(url_list, path_yaml):
 
 # 合并
 def merge_sub():
-    path_yaml = get_sub_all()
-    url_list = get_url_form_yaml(path_yaml)
-    sub_update(url_list,path_yaml)
+    all_yaml = get_sub_all()
+    path_yaml = pre_check()
+
+    url_list = []
+    url_list.extend(get_url_form_yaml(all_yaml))
+    url_list.extend(get_url_form_yaml(path_yaml))
+
+    sub_update(url_list,all_yaml)
 
 def update_today_sub():
     url_list = get_url_form_channel()
@@ -233,5 +240,5 @@ def update_today_sub():
     sub_update(url_list,path_yaml)
 
 if __name__=='__main__':
-    update_today_sub()
+    # update_today_sub()
     merge_sub()
