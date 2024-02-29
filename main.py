@@ -54,8 +54,15 @@ def get_channel_http(channel_url):
     try:
         with requests.post(channel_url) as resp:
             data = resp.text
-        url_list = re.findall(re_str, data)  # 使用正则表达式查找订阅链接并创建列表
-        logger.info(channel_url+'\t获取成功')
+        all_url_list = re.findall(re_str, data)  # 使用正则表达式查找订阅链接并创建列表
+        url_list = []
+        target_string = "//t.me/"
+        for url in all_url_list:
+            if target_string in str(url):
+                pass
+            else :
+                url_list.append(url)
+        logger.info(channel_url+'\t获取成功\t数据量:'  + len(url_list))
     except Exception as e:
         logger.warning(channel_url+'\t获取失败')
         logger.error(channel_url+e)
@@ -96,7 +103,7 @@ def sub_check(url,bar):
     with thread_max_num:
         @retry(tries=2)
         def start_check(url):
-            res=requests.get(url,headers=headers,timeout=5)#设置5秒超时防止卡死
+            res=requests.get(url,headers=headers,timeout=10)#设置5秒超时防止卡死
             if res.status_code == 200:
                 try: #有流量信息
                     info = res.headers['subscription-userinfo']
@@ -144,7 +151,8 @@ def get_url_form_channel():
 
     for channel_url in list_tg:
         temp_list = get_channel_http(channel_url)
-        url_list.extend(temp_list)
+        if len(temp_list) > 0:
+            url_list.extend(temp_list)
 
     return url_list
 
@@ -183,6 +191,7 @@ def start_check(url_list):
     bar.close()
     logger.info('筛选完成')
 
+# 更新订阅
 def sub_update(url_list, path_yaml):
     new_sub_list = []
     new_clash_list = []
@@ -208,7 +217,8 @@ def sub_update(url_list, path_yaml):
     dict_url.update({'开心玩耍': play_list})
     with open(path_yaml, 'w',encoding="utf-8") as f:
         data = yaml.dump(dict_url, f,allow_unicode=True)
-# 合并筛选
+
+# 合并
 def merge_sub():
     path_yaml = get_sub_all()
     url_list = get_url_form_yaml(path_yaml)
