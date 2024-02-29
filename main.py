@@ -216,6 +216,12 @@ def sub_update(url_list, path_yaml):
     new_clash_list = list(set(new_clash_list))
     new_v2_list = list(set(new_v2_list))
     play_list = list(set(play_list))
+
+    new_sub_list = sorted(new_sub_list)
+    new_clash_list = sorted(new_clash_list)
+    new_v2_list = sorted(new_v2_list)
+    play_list = sorted(play_list)
+
     dict_url.update({'机场订阅':new_sub_list})
     dict_url.update({'clash订阅': new_clash_list})
     dict_url.update({'v2订阅': new_v2_list})
