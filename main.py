@@ -184,6 +184,11 @@ def start_check(url_list):
     logger.info('筛选完成')
 
 def sub_update(url_list, path_yaml):
+    new_sub_list = []
+    new_clash_list = []
+    new_v2_list = []
+    play_list = []
+
     start_check(url_list)
     dict_url = load_sub_yaml(path_yaml)
 
