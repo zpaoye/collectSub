@@ -202,8 +202,8 @@ def sub_update(url_list, path_yaml):
     new_clash_list = []
     new_v2_list = []
     play_list = []
-
-    start_check(url_list)
+    check_url_list = list(set(url_list))
+    start_check(check_url_list)
     dict_url = load_sub_yaml(path_yaml)
 
     old_sub_list = dict_url['机场订阅']
