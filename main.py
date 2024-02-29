@@ -51,22 +51,21 @@ def get_config():
 
 @logger.catch
 def get_channel_http(channel_url):
+    url_list = []
     try:
         with requests.post(channel_url) as resp:
             data = resp.text
         all_url_list = re.findall(re_str, data)  # 使用正则表达式查找订阅链接并创建列表
-        url_list = []
         target_string = "//t.me/"
         for url in all_url_list:
             if target_string in str(url):
                 pass
             else :
                 url_list.append(url)
-        logger.info(channel_url+'\t获取成功\t数据量:'  + len(url_list))
+        logger.info(channel_url+'\t获取成功\t数据量:'  + str(len(url_list)))
     except Exception as e:
         logger.warning(channel_url+'\t获取失败')
         logger.error(channel_url+e)
-        url_list = []
     finally:
         return url_list
 
@@ -193,6 +192,10 @@ def start_check(url_list):
 
 # 更新订阅
 def sub_update(url_list, path_yaml):
+    if len(url_list) == 0:
+        logger.info('没有需要更新的数据')
+        return 
+    
     new_sub_list = []
     new_clash_list = []
     new_v2_list = []
