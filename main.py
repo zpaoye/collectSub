@@ -4,19 +4,25 @@ import yaml
 import threading
 import base64
 import requests
+
 from loguru import logger
 from tqdm import tqdm
 from retry import retry
-
+from urllib.parse import quote, urlencode
 from pre_check import pre_check,get_sub_all
 
 new_sub_list = []
 new_clash_list = []
 new_v2_list = []
 play_list = []
+airport_list = []
 
 re_str = "https?://[-A-Za-z0-9+&@#/%?=~_|!:,.;]+[-A-Za-z0-9+&@#/%=~_|]"
 thread_max_num = threading.Semaphore(32)  # 32线程
+
+check_node_url_str = "https://{}/sub?target={}&url={}&insert=false&config=config%2FACL4SSR.ini"
+
+check_url_list = ['api.dler.io','sub.xeton.dev','sub.id9.cc','sub.maoxiongnet.com']
 
 @logger.catch
 def load_sub_yaml(path_yaml):
@@ -95,6 +101,33 @@ def filter_base64(text):
             return True
     return False
 
+@logger.catch
+def url_check_valid(target,url,bar):
+    with thread_max_num:
+        @retry(tries=2)
+        def start_check_url(url):
+            url_encode = quote(url, safe='')
+            global airport_list
+            for check_url in check_url_list:
+                try:
+                    check_url_string = check_node_url_str.format(check_url,target,url_encode)
+                    res=requests.get(check_url_string,timeout=15)#设置5秒超时防止卡死
+
+                    if res.status_code == 200:
+                        airport_list.append(url)
+                        break
+                    else :
+                        pass
+                        # logger.info('解析失败:url : ' + check_url_string)
+                except Exception as e:
+                    # logger.info('解析失败:url : ' + check_url_string)
+                    # logger.error(url  + e)
+                    pass
+        try:
+            start_check_url(url)
+        except:
+            pass
+        bar.update(1)
 
 @logger.catch
 def sub_check(url,bar):
@@ -200,6 +233,7 @@ def write_url_list(url_list, path_yaml):
 
 
 def write_sub_store(yaml_file):
+    logger.info('写入 sub_store 文件--')
     dict_url = load_sub_yaml(yaml_file)
 
     play_list = dict_url['开心玩耍']
@@ -212,19 +246,49 @@ def write_sub_store(yaml_file):
 
 
     sub_list = dict_url['机场订阅']
-    url_list = re.findall(re_str, str(sub_list))
+    sub_url_list = re.findall(re_str, str(sub_list))
     title_str = "\n\n\n-- sub_list --\n\n\n"
-    play_list_str = '\n'.join(str(item) for item in url_list)
+    play_list_str = '\n'.join(str(item) for item in sub_url_list)
     write_str = write_str + title_str + play_list_str
 
-
     url_file = yaml_file.replace('.yaml','_sub_store.txt')
+    with open(url_file, 'w') as f:
+        f.write(write_str)
+    
+    write_url_config(sub_url_list,'loon')
+    write_url_config(sub_url_list,'clash')
+
+
+def write_url_config(url_list, target):
+    logger.info('检测订阅节点有效性')
+    # 检测订阅节点有效性
+    global airport_list
+    airport_list = []
+
+    bar = tqdm(total=len(url_list), desc='节点检测：')
+    thread_list = []
+    for url in url_list:
+        # 为每个新URL创建线程
+        t = threading.Thread(target=url_check_valid, args=(target ,url, bar))
+        # 加入线程池并启动
+        thread_list.append(t)
+        t.setDaemon(True)
+        t.start()
+    for t in thread_list:
+        t.join()
+    bar.close()
+    logger.info('检测订阅节点有效性完成')
+
+    write_str = '\n'.join(str(item) for item in airport_list)
+
+    url_file = target + '_config.txt'
     with open(url_file, 'w') as f:
         f.write(write_str)
 
 
 # 更新订阅
 def sub_update(url_list, path_yaml):
+    logger.info('开始更新订阅---')
     if len(url_list) == 0:
         logger.info('没有需要更新的数据')
         return 
@@ -261,6 +325,7 @@ def sub_update(url_list, path_yaml):
     dict_url.update({'开心玩耍': play_list})
     with open(path_yaml, 'w',encoding="utf-8") as f:
         data = yaml.dump(dict_url, f,allow_unicode=True)
+    
 
 # 合并
 def merge_sub():
@@ -282,5 +347,5 @@ def update_today_sub():
     sub_update(url_list,path_yaml)
 
 if __name__=='__main__':
-    update_today_sub()
+    # update_today_sub()
     merge_sub()
