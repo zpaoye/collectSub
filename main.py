@@ -193,7 +193,7 @@ def start_check(url_list):
 
 # 链接写入文件
 def write_url_list(url_list, path_yaml):
-    url_file = path_yaml + '_url_check.txt'
+    url_file = path_yaml.replace('.yaml','_url_check.txt')
     list_str = '\n'.join(str(item) for item in url_list)
     with open(url_file, 'w') as f:
         f.write(list_str)
@@ -206,11 +206,21 @@ def write_sub_store(yaml_file):
 
     url_list = []
     url_list = re.findall(re_str, str(play_list))
-    list_str = '\n'.join(str(item) for item in url_list)
+    title_str = "-- play_list --\n\n\n"
+    play_list_str = '\n'.join(str(item) for item in url_list)
+    write_str = title_str + play_list_str
 
-    url_file = yaml_file + '_sub_store.txt'
+
+    sub_list = dict_url['机场订阅']
+    url_list = re.findall(re_str, str(sub_list))
+    title_str = "\n\n\n-- sub_list --\n\n\n"
+    play_list_str = '\n'.join(str(item) for item in url_list)
+    write_str = write_str + title_str + play_list_str
+
+
+    url_file = yaml_file.replace('.yaml','_sub_store.txt')
     with open(url_file, 'w') as f:
-        f.write(list_str)
+        f.write(write_str)
 
 
 # 更新订阅
