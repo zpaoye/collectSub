@@ -255,11 +255,11 @@ def write_sub_store(yaml_file):
     with open(url_file, 'w') as f:
         f.write(write_str)
     
-    write_url_config(sub_url_list,'loon')
-    write_url_config(sub_url_list,'clash')
+    write_url_config(url_file,sub_url_list,'loon')
+    write_url_config(url_file,sub_url_list,'clash')
 
 
-def write_url_config(url_list, target):
+def write_url_config(url_file,url_list, target):
     logger.info('检测订阅节点有效性')
     # 检测订阅节点有效性
     global airport_list
@@ -281,7 +281,7 @@ def write_url_config(url_list, target):
 
     write_str = '\n'.join(str(item) for item in airport_list)
 
-    url_file = target + '_config.txt'
+    url_file = url_file.replace('sub_store',target)
     with open(url_file, 'w') as f:
         f.write(write_str)
 
@@ -347,5 +347,5 @@ def update_today_sub():
     sub_update(url_list,path_yaml)
 
 if __name__=='__main__':
-    update_today_sub()
+    # update_today_sub()
     merge_sub()
