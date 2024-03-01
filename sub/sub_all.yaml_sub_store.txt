@@ -8,3 +8,4 @@ https://api.xqc.best/api/v1/client/subscribe?token=1aa3685e5b5733edf53f0655a23df
 https://s.feisucloud.xyz/link/3RVqMIAr0viGl88Q?clash=1
 https://www.dabai.in/link/qrWBdYEZPKr61KkM?list=shadowrocket
 https://cm-sub.pz.pe/subscribe/RH38BUSQ3IRD8NPS?node=mix
+https://mytoken.huyun.nl/api/v1/client/subscribe?token=5a142252bc2760f51ce198e3ca66046b
