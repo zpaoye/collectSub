@@ -191,6 +191,28 @@ def start_check(url_list):
     bar.close()
     logger.info('筛选完成')
 
+# 链接写入文件
+def write_url_list(url_list, path_yaml):
+    url_file = path_yaml + '_url_check.txt'
+    list_str = '\n'.join(str(item) for item in url_list)
+    with open(url_file, 'w') as f:
+        f.write(list_str)
+
+
+def write_sub_store(yaml_file):
+    dict_url = load_sub_yaml(yaml_file)
+
+    play_list = dict_url['开心玩耍']
+
+    url_list = []
+    url_list = re.findall(re_str, str(play_list))
+    list_str = '\n'.join(str(item) for item in url_list)
+
+    url_file = yaml_file + '_sub_store.txt'
+    with open(url_file, 'w') as f:
+        f.write(list_str)
+
+
 # 更新订阅
 def sub_update(url_list, path_yaml):
     if len(url_list) == 0:
@@ -203,6 +225,7 @@ def sub_update(url_list, path_yaml):
     new_v2_list = []
     play_list = []
     check_url_list = list(set(url_list))
+    write_url_list(check_url_list, path_yaml)
     start_check(check_url_list)
     dict_url = load_sub_yaml(path_yaml)
 
@@ -240,11 +263,14 @@ def merge_sub():
 
     sub_update(url_list,all_yaml)
 
+    write_sub_store(all_yaml)
+
+# 更新当日
 def update_today_sub():
     url_list = get_url_form_channel()
     path_yaml = pre_check()
     sub_update(url_list,path_yaml)
 
 if __name__=='__main__':
-    update_today_sub()
+    # update_today_sub()
     merge_sub()
