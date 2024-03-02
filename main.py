@@ -239,9 +239,9 @@ def write_sub_store(yaml_file):
     play_list = dict_url['开心玩耍']
 
     url_list = []
-    url_list = re.findall(re_str, str(play_list))
+    play_url_list = re.findall(re_str, str(play_list))
     title_str = "-- play_list --\n\n\n"
-    play_list_str = '\n'.join(str(item) for item in url_list)
+    play_list_str = '\n'.join(str(item) for item in play_url_list)
     write_str = title_str + play_list_str
 
 
@@ -255,7 +255,7 @@ def write_sub_store(yaml_file):
     with open(url_file, 'w') as f:
         f.write(write_str)
     
-    write_url_config(url_file,sub_url_list,'loon')
+    write_url_config(url_file,play_url_list,'loon')
     write_url_config(url_file,sub_url_list,'clash')
 
 
