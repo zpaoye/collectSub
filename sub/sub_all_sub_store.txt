@@ -20,8 +20,8 @@ https://m33.spwvpn.com/api/v1/client/subscribe?token=cd96d63ce3c02c0fcfccbca8b47
 https://cm-sub.pz.pe/subscribe/RH38BUSQ3IRD8NPS?node=mix
 https://api.xqc.best/api/v1/client/subscribe?token=8f8265b9122af6234cb00d136beb282f
 https://v.spwvpn.com/api/v1/client/subscribe?token=43b90b6a445f44ccb19da66749f6f7a4
-https://api.xqc.best/api/v1/client/subscribe?token=d2b3434d2072026c1f7553f5616f34c7
 https://sulian.cc/api/v1/client/subscribe?token=df67df5b1b1300c0eb723dbb820caf3c
+https://api.xqc.best/api/v1/client/subscribe?token=d2b3434d2072026c1f7553f5616f34c7
 https://www.yfjc.xyz/api/v1/client/subscribe?token=6e92770ecd89c07b9baa9ccc23cd8d5f
 https://sub3.jie-quick.buzz/api/v1/client/subscribe?token=4922263ac084a8daa39c93b38c3772fc
 
