@@ -10,8 +10,8 @@ https://pqjc.site/api/v1/client/subscribe?token=5c1ca5c4caf94d93933db460adf7f07e
 https://s.feisucloud.xyz/link/3RVqMIAr0viGl88Q?clash=1
 https://n3.leensasub.net/api/v1/client/subscribe?token=a9bf7a3eff3efe50b922eefaf91e65e3
 https://texon.io/portal/subscribe/546/O1Mns8FCKSl/clash
-https://api.xqc.best/api/v1/client/subscribe?token=1aa3685e5b5733edf53f0655a23df9af
 https://install.cdn-sd.xyz/api/v1/client/subscribe?token=D8R2BqPSd5h03Z12
+https://api.xqc.best/api/v1/client/subscribe?token=1aa3685e5b5733edf53f0655a23df9af
 https://3h.lv/api/v1/client/subscribe?token=32df6680956d6fc43bceea2a0b49202c
 https://m33.spwvpn.com/api/v1/client/subscribe?token=cd96d63ce3c02c0fcfccbca8b4736316
 https://www.dabai.in/link/qrWBdYEZPKr61KkM?list=shadowrocket
