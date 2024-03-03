@@ -13,8 +13,8 @@ https://texon.io/portal/subscribe/546/O1Mns8FCKSl/clash
 https://api.xqc.best/api/v1/client/subscribe?token=1aa3685e5b5733edf53f0655a23df9af
 https://3h.lv/api/v1/client/subscribe?token=32df6680956d6fc43bceea2a0b49202c
 https://install.cdn-sd.xyz/api/v1/client/subscribe?token=D8R2BqPSd5h03Z12
-https://www.dabai.in/link/qrWBdYEZPKr61KkM?list=shadowrocket
 https://m33.spwvpn.com/api/v1/client/subscribe?token=cd96d63ce3c02c0fcfccbca8b4736316
+https://www.dabai.in/link/qrWBdYEZPKr61KkM?list=shadowrocket
 https://v.spwvpn.com/api/v1/client/subscribe?token=43b90b6a445f44ccb19da66749f6f7a4
 https://mytoken.huyun.nl/api/v1/client/subscribe?token=5a142252bc2760f51ce198e3ca66046b
 https://platform.djjc.cfd/api/v1/client/subscribe?token=6e1d4ec677bff46f51547b9bcb0a64e7
