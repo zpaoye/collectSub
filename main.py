@@ -62,13 +62,8 @@ def get_channel_http(channel_url):
         with requests.post(channel_url) as resp:
             data = resp.text
         all_url_list = re.findall(re_str, data)  # 使用正则表达式查找订阅链接并创建列表
-        target_string_list = ["//t.me/","cdn-telegram.org"]
-        for url in all_url_list:
-            for target_string in target_string_list:
-                if target_string in str(url):
-                    break
-                else :
-                    url_list.append(url)
+        filter_string_list = ["//t.me/","cdn-telegram.org"]
+        url_list = [item for item in all_url_list if not any(filter_string in item for filter_string in filter_string_list)]
         logger.info(channel_url+'\t获取成功\t数据量:'  + str(len(url_list)))
     except Exception as e:
         logger.warning(channel_url+'\t获取失败')
