@@ -22,8 +22,8 @@ https://www.yfjc.xyz/api/v1/client/subscribe?token=6e92770ecd89c07b9baa9ccc23cd8
 https://cm-sub.pz.pe/subscribe/RH38BUSQ3IRD8NPS?node=mix
 https://api.xqc.best/api/v1/client/subscribe?token=8f8265b9122af6234cb00d136beb282f
 https://api.xqc.best/api/v1/client/subscribe?token=d2b3434d2072026c1f7553f5616f34c7
-https://sub3.jie-quick.buzz/api/v1/client/subscribe?token=4922263ac084a8daa39c93b38c3772fc
 https://api1.xn--bnq37rc0nw50b.com/api/v1/client/subscribe?token=afc10da32cc774b8e72ee887d1edf7a5
+https://sub3.jie-quick.buzz/api/v1/client/subscribe?token=4922263ac084a8daa39c93b38c3772fc
 
 
 -- sub_list --
