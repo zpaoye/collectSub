@@ -9,8 +9,8 @@ https://api.tshl.cc/link/ry6M2vbmr2bGYspl?mu=2
 https://sulian.cc/api/v1/client/subscribe?token=df67df5b1b1300c0eb723dbb820caf3c
 https://sub1.timeneverchanges.com/api/v1/client/subscribe?token=540174cd32f59b971a4488617be7fe8f
 https://ceshi.888451.xyz/api/v1/client/subscribe?token=d59d4f35ec6294c8d5554e2c35864653
-https://cm-sub.pz.pe/subscribe/RH38BUSQ3IRD8NPS?node=mix
 https://sulian.cc/api/v1/client/subscribe?token=e8912b3473c96f7336f24effa23ef315
+https://cm-sub.pz.pe/subscribe/RH38BUSQ3IRD8NPS?node=mix
 https://texon.io/portal/subscribe/546/O1Mns8FCKSl/clash
 https://api.xqc.best/api/v1/client/subscribe?token=1aa3685e5b5733edf53f0655a23df9af
 https://3h.lv/api/v1/client/subscribe?token=32df6680956d6fc43bceea2a0b49202c
