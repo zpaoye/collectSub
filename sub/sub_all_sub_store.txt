@@ -11,6 +11,7 @@ https://cm-sub.pz.pe/subscribe/RH38BUSQ3IRD8NPS?node=mix
 https://api.xqc.best/api/v1/client/subscribe?token=1aa3685e5b5733edf53f0655a23df9af
 https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=1
 https://texon.io/portal/subscribe/546/O1Mns8FCKSl/clash
+https://platform.djjc.cfd/api/v1/client/subscribe?token=6e1d4ec677bff46f51547b9bcb0a64e7
 https://3h.lv/api/v1/client/subscribe?token=32df6680956d6fc43bceea2a0b49202c
 https://m11.spwvpn.com/api/v1/client/subscribe?token=319f2c1bdcb78325ec193dec5d00226a
 https://subthree.996yyds.xyz/link/fVnn2HKrNhrqbIeZ?clash=1
