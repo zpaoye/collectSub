@@ -20,8 +20,8 @@ https://api.xqc.best/api/v1/client/subscribe?token=8f8265b9122af6234cb00d136beb2
 https://mytoken.huyun.nl/api/v1/client/subscribe?token=5a142252bc2760f51ce198e3ca66046b
 https://api.xqc.best/api/v1/client/subscribe?token=d2b3434d2072026c1f7553f5616f34c7
 https://api.xqc.best/api/v1/client/subscribe?token=ea4f537a983f28cc318f81fd445709b6
-https://sub3.jie-quick.buzz/api/v1/client/subscribe?token=4922263ac084a8daa39c93b38c3772fc
 https://subs.xttlove.uk/api/v1/client/subscribe?token=a5c52bd6b40110375e4163539bf4036e#rename=@-0.2x
+https://sub3.jie-quick.buzz/api/v1/client/subscribe?token=4922263ac084a8daa39c93b38c3772fc
 
 
 -- sub_list --
