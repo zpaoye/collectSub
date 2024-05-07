@@ -1,8 +1,7 @@
-https://dy9.mmydy.xyz/api/v1/client/subscribe?token=27cea39a9f0037eb0ac8042e158f2150
 https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=91329feda803c29309d5eae3e2c9c004
-https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=5cb24ce689fecdb776dbcc0f5c29fde5
-https://webridge.pokeryun.link/api/v1/client/subscribe?token=8d0e1e176d68c05116a5c88fd9fc98a6
 https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=3aea187e7c9c49b282b0b66e23cc1a89&amp;flag=clash
-https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=9635d08e4dae217abd53733ab127183d&amp;flag=clash
+https://www.bptz.xyz/api/v1/client/subscribe?token=c07f9d5c0fd4784f283c0a33d027453d
+https://subscribe.speedypro.xyz/api/v1/client/subscribe?token=kvi5e8eHTjJL5HeZd0ZMC5miUV4MHByq
 https://mojie.app/api/v1/client/subscribe?token=7eb552aeb10bc561616d45612bcd0510
-https://16th.sub-airport.com/api/v1/client/subscribe?token=f9ff9457723b9583c3e585e2cbf8fb62
+https://b.bbydy.org/api/v1/client/subscribe?token=b5cc7efa2d437b688b2d603da9639090
+https://dy.tgmini.top/lgpage/detail/?token=b350314416705e2ccef52d65ae5b18f3
