@@ -1,7 +1,6 @@
-https://subs.zeabur.app/clash
-https://mc.jiedianxielou.workers.dev/
+https://mc.jiedianxielou.workers.dev
+https://inangua.lwjyj.com/api/v1/client/subscribe?token=4888d1ba9ec81955ff3ddd5806174ed1
+https://0415.chun-auto-one.xyz/api/v1/client/subscribe?token=fe4e2280fff38b11c2fc10ae725a753c
 https://dzpd.jiedianxielou.workers.dev/?clash=1
-https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=9635d08e4dae217abd53733ab127183d
-https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=f0858ff0a06e3e5c377ab69522abc04d
-https://www.02er.com/api/v1/client/subscribe?token=6e2fe034e04272c5fdd6acf17467dd30&amp;flag=clash
-https://b.bbydy.org/api/v1/client/subscribe?token=b5cc7efa2d437b688b2d603da9639090
+https://mc.jiedianxielou.workers.dev/
+https://25054128.xyz/api/v1/client/subscribe?token=7723b391e7c3c9df9d33816752360cc6
