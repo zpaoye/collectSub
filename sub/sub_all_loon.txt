@@ -1,5 +1,5 @@
-https://dy1.mmydy.xyz/api/v1/client/subscribe?token=6ecfce8188cc2c5b04092c9482237046
-https://bptz.xyz/api/v1/client/subscribe?token=e26146d74f1ac44a4fbdc7546c4e0972
+https://www.bptz.xyz/api/v1/client/subscribe?token=c07f9d5c0fd4784f283c0a33d027453d
 https://mc.jiedianxielou.workers.dev/
+https://bptz.xyz/api/v1/client/subscribe?token=e26146d74f1ac44a4fbdc7546c4e0972
 https://www.qlgq.top/link/1a8dfdcf700948f0?clash=1
-https://oss.pithecia.com/api/v1/client/subscribe?token=70ab15ea34eeb32e953a2a13ff4e56fd
+https://qkt83qnp2yuj.subconnect.org/api/v1/client/subscribe?token=1e8bfdffbaa020209a08673f3d404a10
