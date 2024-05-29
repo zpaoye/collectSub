@@ -1,2 +1,7 @@
+https://bptz.xyz/api/v1/client/subscribe?token=e26146d74f1ac44a4fbdc7546c4e0972
+https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009/FYLink
+https://jindoucloud.xyz/api/v1/client/subscribe?token=abcb8ddbec1cc752989f1b63dc69e10e
 https://www.bptz.xyz/api/v1/client/subscribe?token=c07f9d5c0fd4784f283c0a33d027453d
-https://dzpd.jiedianxielou.workers.dev/?clash=1
+https://subs.zeabur.app/clash
+https://mc.jiedianxielou.workers.dev/
+https://www.tannel.xyz/link/UschoWctNOC78yhs?sub=3
