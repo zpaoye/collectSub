@@ -1,10 +1,7 @@
 http://dy.hpyjc.top/api/v1/client/subscribe?token=8eba1d79f60c7e699cc0ce771b68a2c4
-https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=b34b2e4e8eeec829e368fd631b20fbd1
-https://ceshi.888451.xyz/api/v1/client/subscribe?token=2fa0dc98e0b01b2b4f3b7c53f8bdd8ba&amp;types=hysteria2
-https://csyun.t1csyun.shop/api/v1/client/subscribe?token=3fb3baf1bb828e71c23e7e7d15253c0c
-https://dy4.mmydy.xyz/api/v1/client/subscribe?token=e81f951df6532abdb39596ccabeb08c1
-https://dzpd.jiedianxielou.workers.dev/?clash=1
+http://dy.hpyjc.top/api/v1/client/subscribe?token=e49e20f28920511e029a02ff3acfd12a
+https://dy.tgmini.top/lgpage/detail/?token=b350314416705e2ccef52d65ae5b18f3
+https://dy1.mmydy.xyz/api/v1/client/subscribe?token=a2ad93368eec6938ee3a872ffcb09574&amp;flag=clash
 https://gbshct.spphhnhg.top/link/lIgMcMSUd6HLrYoSHOIaLN6AQwv8ug6e?sub=3&amp;extend=1
-https://subscribe.ztpxxx.com/link/0rg6YEfWIQOWbCs4?clash=1
-https://www.tannel.xyz/link/UschoWctNOC78yhs?sub=3
-https://www.02er.com/api/v1/client/subscribe?token=3669432ada4b94e611bdd84047e81440&amp;flag=clash
+https://jp.taishan1.pro/api/v1/client/subscribe?token=decbd7dd37b24d65a43b4bf05da2cdf9
+https://www.02er.com/api/v1/client/subscribe?token=dcaa0f13d9f37bf6bf2b944984ee9d03&amp;flag=clash
