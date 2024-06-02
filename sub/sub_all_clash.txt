@@ -1,10 +1,6 @@
 http://api.123417.xyz/api/v1/client/subscribe?token=84b21c9ad6dd351239d50994542e2137
-https://api.acaisbest.shop/api/v1/client/subscribe?token=8c688dd0c67cfa63f989f0689ada2ddf
-https://csyun.t1csyun.shop/api/v1/client/subscribe?token=da686e572e217a1fcbf97d2ec3628fb7
-https://dy4.mmydy.xyz/api/v1/client/subscribe?token=e81f951df6532abdb39596ccabeb08c1
-https://getafreenode.com/subscribe/?uuid=5af5e263-f03e-4329-a4c5-9aac626efdc2
+https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=3aea187e7c9c49b282b0b66e23cc1a89&amp;flag=clash
 https://gbshct.spphhnhg.top/link/lIgMcMSUd6HLrYoSHOIaLN6AQwv8ug6e?sub=3&amp;extend=1
-https://jindoucloud.xyz/api/v1/client/subscribe?token=abcb8ddbec1cc752989f1b63dc69e10e
+https://mc.jiedianxielou.workers.dev
 https://sub.wordvlog.link/api/v1/client/subscribe?token=e94ccb5762ebddb462d996ce435dd934
-https://subscribe.insidergame.xyz/api/v1/client/subscribe?token=b8c7f5d1cec04b203b0e8f50c6c56a3c
-https://www.02er.com/api/v1/client/subscribe?token=dcaa0f13d9f37bf6bf2b944984ee9d03&amp;flag=clash
+https://vtwoc1.top/api/v1/client/subscribe?token=716cee0b865297d0b9b22a3d11883a54
