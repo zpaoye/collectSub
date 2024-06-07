@@ -1,6 +1,4 @@
-https://mc.jiedianxielou.workers.dev
+https://bptz.xyz/api/v1/client/subscribe?token=fc90b5a401a76bdf4300b6c7112120b7
 https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://dy.chaozhijc.xyz/api/v1/client/subscribe?token=9a5360b534af5c06332e9dc141de9628
-https://liangyuandian.xyz/api/v1/client/subscribe?token=497faca3c38d69a87106713dc31ab6ef
-https://linke.phantasy.life/api/v1/client/subscribe?token=881e3b9aa28e204bf363c94ecc40ff11
-https://a.jiedianxielou.workers.dev/api/v1/client/subscribe?token=UjBGOXVrdFBKYzl0dE5SK3M5Nk84Tkp2T2M0YW1jVk02d0FxbmQ2Q3l5UGF3QkJhUW1CUHNTSzNhOXJmMDFHcXJ4NE51VGpsaVlwMGgzbUgvT1pLQkRMTUhRS2xwYnFEVUNtMzN5OTBabEhwRVE9PQ
+https://bptz.xyz/api/v1/client/subscribe?token=e26146d74f1ac44a4fbdc7546c4e0972
+https://sub123.71345.xyz/api/v1/client/subscribe?token=f0858ff0a06e3e5c377ab69522abc04d
