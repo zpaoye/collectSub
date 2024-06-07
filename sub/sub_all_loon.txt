@@ -1,6 +1,8 @@
 https://mc.jiedianxielou.workers.dev
-https://dash.ftclashcloud.mom/api/v1/client/subscribe?token=1069a4f948b27ed6d7d5a95f212ccbd0
 https://mc.jiedianxielou.workers.dev/
-https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+https://bptz.xyz/api/v1/client/subscribe?token=e26146d74f1ac44a4fbdc7546c4e0972
+https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=b34b2e4e8eeec829e368fd631b20fbd1
 https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=1eb99cf82ea0e8893f2a57f7b1a3a72c&amp;flag=clash
-https://dy.smjc.top/api/v1/client/subscribe?token=c6f5a0e8a6cb0439850967259af07025
+https://dy.tgmini.top/lgpage/detail/?token=b350314416705e2ccef52d65ae5b18f3
+https://service-p0v9tp46-1312645837.gz.apigw.tencentcs.com/api/v1/client/subscribe?token=a648e23b321ba13e0fff2a777c7746d0
+https://l.db-link01.top/link/mqQ5gNhWbR2TBtSo?list=shadowrocket
