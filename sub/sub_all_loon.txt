@@ -1,5 +1,6 @@
 https://cococloud.online/api/v1/client/subscribe?token=4c2a813ad7579f6f6e38be576fd76350
+https://mc.jiedianxielou.workers.dev/
+https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
 https://bptz.xyz/api/v1/client/subscribe?token=e26146d74f1ac44a4fbdc7546c4e0972
-https://mc.jiedianxielou.workers.dev
-https://16th.sub-airport.com/api/v1/client/subscribe?token=f9ff9457723b9583c3e585e2cbf8fb62
-https://liangyuandian.xyz/api/v1/client/subscribe?token=497faca3c38d69a87106713dc31ab6ef
+http://xyyjc.top/api/v1/client/subscribe?token=5a9aa7daa62077d36af9cdf635bb4e6f
+https://sub123.71345.xyz/api/v1/client/subscribe?token=f0858ff0a06e3e5c377ab69522abc04d
