@@ -1,5 +1,5 @@
+https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
 https://cococloud.online/api/v1/client/subscribe?token=4c2a813ad7579f6f6e38be576fd76350
-https://mc.jiedianxielou.workers.dev
-https://mc.jiedianxielou.workers.dev/
+https://bptz.xyz/api/v1/client/subscribe?token=e26146d74f1ac44a4fbdc7546c4e0972
+https://subs.zeabur.app/clash
 https://mojie.app/api/v1/client/subscribe?token=7328ab4f19f7345584102f130d1b8da7
-https://liangyuandian.xyz/api/v1/client/subscribe?token=497faca3c38d69a87106713dc31ab6ef
