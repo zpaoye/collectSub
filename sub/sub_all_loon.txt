@@ -1,3 +1,6 @@
 https://mc.jiedianxielou.workers.dev
+https://QTjDQsor6e7D.configbit.com/api/v1/client/subscribe?token=ccc4232aea0791e429935d5875ff76e2
 https://mc.jiedianxielou.workers.dev/
-https://a.jiedianxielou.workers.dev/api/v1/client/subscribe?token=UjBGOXVrdFBKYzlvNDRsNHQ4eUVzTVZzSnBRZng5Z003UjVranR2RTJIeUJqQTlHUlgxWTdEaWdiSmJJemxPdHBCeEs1VFhrMFlKNjBYblRxTDBhQ1RPYkdWU20vdXJXQUMyd2lISW5ZRmUxUWNoV0NOUlZDMGc9
+https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+https://dash.ftclashcloud.mom/api/v1/client/subscribe?token=1069a4f948b27ed6d7d5a95f212ccbd0
+https://ymzx.jiedianxielou.workers.dev/api/v1/client/subscribe?token=8dfd36317be546ce993d2fc792cbe270
