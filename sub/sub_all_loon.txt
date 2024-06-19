@@ -1,5 +1,5 @@
-https://sub.mianfeiyun.online/api/v1/client/subscribe?token=31b8ce92d13bf5359ffb36bd96f44c44
-https://mc.jiedianxielou.workers.dev/
+https://subs.zeabur.app/clash
+https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=9635d08e4dae217abd53733ab127183d&amp;flag=clash
 https://mc.jiedianxielou.workers.dev
-http://2ec535a5c35aa5a4b44249428dbb3d01.52pokemon.top/api/v1/client/subscribe?token=8cf0a4fe2c5e35887a50677c2f79325b
-http://vpn.gougouvpn.xyz:88/api/v1/client/subscribe?token=bb05f9ea73561817417629cbcadf538c
+https://ymzx.jiedianxielou.workers.dev/api/v1/client/subscribe?token=8dfd36317be546ce993d2fc792cbe270
+https://mc.jiedianxielou.workers.dev/
