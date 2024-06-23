@@ -1,5 +1,6 @@
-http://api-0609.m55u97uleod7lm5.download/api/v1/client/subscribe?token=212ecbd29bd748f22df31f79c6ac2582
-https://422.jcool.cool/api/v1/client/subscribe?token=7651bcba974baefaf929e408444d27d4&amp;ttoken=767d2f8ed5d21a44b
 https://qkt83qnp2yuj.subconnect.org/api/v1/client/subscribe?token=1e8bfdffbaa020209a08673f3d404a10
-https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=1eb99cf82ea0e8893f2a57f7b1a3a72c&amp;flag=clash
-https://b.bbydy.org/api/v1/client/subscribe?token=b5cc7efa2d437b688b2d603da9639090
+https://subs.zeabur.app/clash
+https://mc.jiedianxielou.workers.dev/
+https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+https://mc.jiedianxielou.workers.dev
+https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=f0858ff0a06e3e5c377ab69522abc04d
