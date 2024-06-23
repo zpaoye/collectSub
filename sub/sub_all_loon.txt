@@ -1,3 +1,5 @@
-https://subs.zeabur.app/clash
-https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
 https://mc.jiedianxielou.workers.dev/
+https://ktmcloud.cool/api/v1/client/subscribe?token=110b38426190b2a3db8841d35062bcbb
+https://mc.jiedianxielou.workers.dev
+https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=9635d08e4dae217abd53733ab127183d
+https://a.jiedianxielou.workers.dev/api/v1/client/subscribe?token=UjBGOXVrdFBKYzlvNDRsNHQ4eUVzTVZzSnBRZng5Z003UjVranR2RTJIeUJqQTlHUlgxWTdEaWdiSmJJemxPdHBCeEs1VFhrMFlKNjBYblRxTDBhQ1RPYkdWU20vdXJXQUMyd2lISW5ZRmUxUWNoV0NOUlZDMGc9
