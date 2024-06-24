@@ -1,5 +1,6 @@
+https://subs.zeabur.app/clash
 https://mc.jiedianxielou.workers.dev/
 https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
 https://mc.jiedianxielou.workers.dev
-https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=9635d08e4dae217abd53733ab127183d&amp;flag=clash
-https://sub4.bbjc.xyz/api/v1/client/subscribe?token=574a0ed5b534326523e55648d74b3392
+https://ap.niaodi.top/niao?token=cdaa1b1f44005a4ed020ea98e001d0c5
+https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=1eb99cf82ea0e8893f2a57f7b1a3a72c&amp;flag=clash
