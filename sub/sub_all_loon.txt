@@ -1,5 +1,6 @@
-https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://inangua.lwjyj.com/api/v1/client/subscribe?token=8e92fe4ff686c6de028a90589c0c49d8
 https://sub3.bbjc.xyz/api/v1/client/subscribe?token=e7b928f6854f858c157e9aebb9191ae4
-https://mc.jiedianxielou.workers.dev/
-https://too.st/a8K
+https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+https://ceshi.888451.xyz/api/v1/client/subscribe?token=d59d4f35ec6294c8d5554e2c35864653&amp;types=hysteria2
+https://mc.jiedianxielou.workers.dev
+http://msvpn.gougouvpn.xyz:88/api/v1/client/subscribe?token=ef7fe3ef9481e7d8b5894f750bd3d69b
+https://a94d418e-1898-42df-bcf2-d970a5f3a939.mysubsoft.com/api/v1/client/subscribe?token=1cb8e0050af86604a7638c6c1a91e3f9
