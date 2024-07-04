@@ -1,6 +1,7 @@
+https://sub.yiri.dev/api/v1/client/subscribe?token=b0c01c76076d69431ce1fdff1eeb1624
 https://subs.zeabur.app/clash
-https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=b34b2e4e8eeec829e368fd631b20fbd1
-https://pro.76898102.xyz/api/v1/client/subscribe?token=02dc0a27ca659ecbf87e1975ad106ac1
-https://yiyolink.xyz/link/J6OpSJ9lfi1YHzQI?list=shadowrocket
-https://b.bbydy.org/api/v1/client/subscribe?token=b5cc7efa2d437b688b2d603da9639090
-https://cloud.gyyun.top/api/v1/client/subscribe?token=21f9b17f63a629677d84f9173e4ec048
+https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=5cb24ce689fecdb776dbcc0f5c29fde5
+https://yiyolink.xyz/link/J6OpSJ9lfi1YHzQI?clash=1
+https://38.181.25.67/api/v1/client/subscribe?token=9fbba2d5e199b0a8fb1fb3f27538c3e4
+https://cloud.gyyun.top/api/v1/client/subscribe?token=203de76c55a4c48851cd8eb94384069a
+https://zjsub.gitpub.top/api/v1/client/subscribe?token=140c71acf1ef34766c267f9ea36ba79f
