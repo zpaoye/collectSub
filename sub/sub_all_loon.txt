@@ -1,5 +1,3 @@
-https://www.m2net.lol/api/v1/client/subscribe?token=e8d4378f6d031e5d26cd2cff13fc6988
-https://dy.smjc.top/api/v1/client/subscribe?token=b12651a704cf680e5794f61827a46262
-http://dingyue2.qyjc.xyz/api/v1/client/subscribe?token=55be191adc2c919537a823623bb1e02a
-https://cloud.gyyun.top/api/v1/client/subscribe?token=203de76c55a4c48851cd8eb94384069a
-http://msvpn.gougouvpn.xyz:88/api/v1/client/subscribe?token=9ff4246cba59721acc3c74bd893d1886
+https://subs.zeabur.app/clash
+https://lzysub.online/api/v1/client/subscribe?token=bfd894d175c66b37ef41a3c03c529f09
+https://xsj520.top/api/v1/client/subscribe?token=67b0328a7dced4a58be002bb2f681f97
