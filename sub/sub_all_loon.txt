@@ -1,6 +1,4 @@
-http://dingyue2.qyjc.xyz/api/v1/client/subscribe?token=55be191adc2c919537a823623bb1e02a
 http://s1.subcsyun.online/api/v1/client/subscribe?token=2354a92f0ce651a3b8ecfef4a45b52c0
-https://linke.phantasy.life/api/v1/client/subscribe?token=0072d7d5b225b936675b2f6d5e87d9de
+http://s.kalaa.me/v3/subscr?id=195e6df1193444a2af70b68a0e32391e
 https://feiniaoyun11.life/api/v1/client/subscribe?token=fbfbabca19161b2c24dfa7bebb58fda7
-https://www.qlgq.top/link/1a8dfdcf700948f0?clash=1
-https://zjsub.gitpub.top/api/v1/client/subscribe?token=140c71acf1ef34766c267f9ea36ba79f
+https://xsj520.top/api/v1/client/subscribe?token=67b0328a7dced4a58be002bb2f681f97
