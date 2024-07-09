@@ -1,4 +1,3 @@
-https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=5cb24ce689fecdb776dbcc0f5c29fde5
-http://s.kalaa.me/v3/subscr?id=195e6df1193444a2af70b68a0e32391e
-http://s1.subcsyun.online/api/v1/client/subscribe?token=2354a92f0ce651a3b8ecfef4a45b52c0
-https://38.181.25.67/api/v1/client/subscribe?token=9fbba2d5e199b0a8fb1fb3f27538c3e4
+https://subs.zeabur.app/clash
+https://api2.okaycloud.top/api/v1/client/subscribe?token=d9ae110206ec8950de916ce3218cfb90
+https://api.acaisbest.shop/api/v1/client/subscribe?token=ea7046282fc195883735eb31b9cbc8f4
