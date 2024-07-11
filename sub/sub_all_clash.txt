@@ -1,8 +1,9 @@
-http://msvpn.gougouvpn.xyz:88/api/v1/client/subscribe?token=9ff4246cba59721acc3c74bd893d1886
-https://0d2th.no-mad-world.club/link/dacqbivsqysnpzlq?clash=3&amp;extend=1
-https://422.jcool.cool/api/v1/client/subscribe?token=7651bcba974baefaf929e408444d27d4&amp;ttoken=767d2f8ed5d21a44b
-https://bunnyspeedox.online/api/v1/client/subscribe?token=550f9f625416dc13f88b1e6bf84f63ef
-https://gyyun.top/api/v1/client/subscribe?token=325f8777eb47c04591ba0b5100882898
-https://linke.phantasy.life/api/v1/client/subscribe?token=881e3b9aa28e204bf363c94ecc40ff11
-https://watch.szlatteart.com/api/v1/client/subscribe?token=d565fcd550324c2fae42ed7bcb4ce7cd
-https://www.tannel.xyz/link/UschoWctNOC78yhs?sub=3
+https://api.abyssyun.top/api/v1/client/subscribe?token=83e18798880e917220bdbed3afff2919
+https://lzysub.online/api/v1/client/subscribe?token=bfd894d175c66b37ef41a3c03c529f09
+https://nanbei.cloud/api/v1/client/subscribe?token=3cb1b48847db9247edbae87e167d43a2
+https://oss.pithecia.com/api/v1/client/subscribe?token=483fcb626307bfbe1b4e67b6cdad87b7
+https://pro.76898102.xyz/api/v1/client/subscribe?token=7f0b99c8116d910c1115f2ed992d1c21&amp;flag=meta
+https://sub-01.767564.xyz/api/v1/client/subscribe?token=bf7830b16efdaff6c7bd7f6ec086e80f
+https://sub.cokecloud.world/api/v1/client/subscribe?token=7f3929bf59f27b8a72a56f79c2696489
+https://sub.yiri.dev/api/v1/client/subscribe?token=b0c01c76076d69431ce1fdff1eeb1624
+https://u4dqz2t0x576.syynweb.shop/api/v1/client/subscribe?token=3bdd372f7060ebdd3312ebbd4d961160
