@@ -1,7 +1,3 @@
-https://subs.zeabur.app/clash
-https://go.hhyun.in/api/v1/client/subscribe?token=03e57a93173bd9fb363562f165885948
-https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=9635d08e4dae217abd53733ab127183d&amp;flag=clash
-https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=9635d08e4dae217abd53733ab127183d
-https://go.hhyun.in/api/v1/client/subscribe?token=3cf60db29b1e1e99388cb3d1a00a4e57
-https://lzysub.online/api/v1/client/subscribe?token=bfd894d175c66b37ef41a3c03c529f09
-https://s1.bnsubservdom.com/api/v1/client/subscribe?token=ddb812c71b22cf41f0588e0cc487c077
+https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=f0858ff0a06e3e5c377ab69522abc04d
+http://sub.xn--54qu5qypuo1o.xn--fiqs8s/api/v1/client/subscribe?token=8cfd1efb341eddefcbf9f8ce5e1543d7&amp;fbcl
+http://msvpn.gougouvpn.xyz:88/api/v1/client/subscribe?token=ef7fe3ef9481e7d8b5894f750bd3d69b
