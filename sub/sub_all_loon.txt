@@ -1,5 +1,6 @@
 https://subs.zeabur.app/clash
-https://4259f1e1-ff0e-461a-b7ff-c734d374eb68.shandiannginx.com/api/v1/client/subscribe?token=b1e0413a68f68cea8196489219d84528
-https://ceshi.888451.xyz/api/v1/client/subscribe?token=d59d4f35ec6294c8d5554e2c35864653&amp;types=hysteria2
-https://sub1.smallstrawberry.com/api/v1/client/subscribe?token=187bd46825650061b2496ddbe204bcc4
-http://msvpn.gougouvpn.xyz:88/api/v1/client/subscribe?token=ef7fe3ef9481e7d8b5894f750bd3d69b
+https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=5cb24ce689fecdb776dbcc0f5c29fde5
+https://dydz.csjc.win/api/v1/client/subscribe?token=dcd5338f74692616d2933d0978065e69
+https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=b34b2e4e8eeec829e368fd631b20fbd1
+https://sub.chasing.sbs:21600/api/v1/client/subscribe?token=0283f58bbc10bdcec24ce46ad4ffa82d
+https://sub3.bbjc.xyz/api/v1/client/subscribe?token=e7b928f6854f858c157e9aebb9191ae4
