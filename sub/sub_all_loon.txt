@@ -1,4 +1,6 @@
 https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://mc.jiedianxielou.workers.dev
-http://dingyue3.qyjc.xyz/api/v1/client/subscribe?token=e62a527fe908e7486693137f9f65174e
-http://msvpn.gougouvpn.xyz:88/api/v1/client/subscribe?token=ef7fe3ef9481e7d8b5894f750bd3d69b
+https://mc.jiedianxielou.workers.dev/
+https://subsubsubsubsub.keledydz.uk/api/v1/client/subscribe?token=059c1cbe704ce6bed83b78922b26150e
+https://gyyun.top/api/v1/client/subscribe?token=a227cf22d0f58bcafdee31e55af6bffe
+https://9527.bigbigwatermelon.com/api/v1/client/subscribe?token=a91422a7f63f828a453c1a9345348679
+https://zjsub.gitpub.top/api/v1/client/subscribe?token=140c71acf1ef34766c267f9ea36ba79f
