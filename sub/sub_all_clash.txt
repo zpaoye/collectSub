@@ -1,10 +1,4 @@
-https://17852.xyz/api/v1/client/subscribe?token=340ea2540b69f18325e6f32aaa5fe1cc
-https://api.ssrsub.com/api/v1/client/subscribe?token=31cf50bb67f27e40ab48132723b2ae19
-https://cdn.fraternizey.com/api/v1/client/subscribe?token=de6452de3a631d1006da3981fef4430a
-https://cloud.gyyun.top/api/v1/client/subscribe?token=c9b5f5a37312c81acf92aaba2e694ba3
-https://syynweb.xyz/api/v1/client/subscribe?token=6ce5b8968d4d194cb48fc6e9d2e821f9
-https://gyyun.top/api/v1/client/subscribe?token=b4e64a8fee76609b73b37ccf97523616
-https://nanbei.cloud/api/v1/client/subscribe?token=3cb1b48847db9247edbae87e167d43a2
+https://d.palu123.com/apk/go/client/banzou?token=39ea85aebf62087fed292e5cb1787b56
+https://mojie.app/api/v1/client/subscribe?token=9b796d79905a49c1f75139a9f5650b7f
 https://st-sub.fly.dev/v2b/fast/api/v1/client/subscribe?token=111995bc7081abfb6d65b73f702deef7&amp;flag
-https://www.dabai.in/link/qrWBdYEZPKr61KkM?list=shadowrocket
-https://xfsnet.com/api/v1/client/subscribe?token=b6604f287cdf8e5665ebc7393755cae6
+https://syynweb.xyz/api/v1/client/subscribe?token=6ce5b8968d4d194cb48fc6e9d2e821f9
