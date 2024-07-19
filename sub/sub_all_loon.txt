@@ -1,7 +1,6 @@
-https://mc.jiedianxielou.workers.dev
-https://mc.jiedianxielou.workers.dev/
 https://sub-01.767564.xyz/api/v1/client/subscribe?token=de4a0ea7b988afba1a1072a3288d5390
-https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=f0858ff0a06e3e5c377ab69522abc04d
-https://hx0618.xn--wqr30o34q.xn--io0a7i/api/v1/client/subscribe?token=121ba58bb4b6f87ef10f5ab0b4d028d9
-http://e8a580bd3a51b6050aabd8919a17d106.52pokemon.top/api/v1/client/subscribe?token=8949b177fcce579e75a0f6b1178ea72c
-https://wwe.trx1.cyou/api/v1/client/subscribe?token=a2e3729beea68d94f36ef196b0c9c062
+https://subs.zeabur.app/clash
+https://cloud.gyyun.top/api/v1/client/subscribe?token=c9b5f5a37312c81acf92aaba2e694ba3
+https://linke.phantasy.life/api/v1/client/subscribe?token=0072d7d5b225b936675b2f6d5e87d9de
+https://mc.jiedianxielou.workers.dev
+https://dy.smjc.top/api/v1/client/subscribe?token=518a7c7335e338b5180e39322e21f187
