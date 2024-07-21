@@ -1,6 +1,9 @@
 https://sub1.tg-mfjd666.cloudns.be/api/v1/client/subscribe/token=598adee7147c414593f29c74cfade831f4d95313f786bb749ca643ea23bb0fd3
-https://sub.chasing.sbs:21600/api/v1/client/subscribe?token=0283f58bbc10bdcec24ce46ad4ffa82d
+https://mc.jiedianxielou.workers.dev/
 https://mc.jiedianxielou.workers.dev
-https://9527.bigbigwatermelon.com/api/v1/client/subscribe?token=a91422a7f63f828a453c1a9345348679
-https://www.qlgq.top/link/c773a6bacd921a0d?clash=1
-https://m2net.sbs/api/v1/client/subscribe?token=00977be5181e74d90c09a412e3e66efd
+http://e8a580bd3a51b6050aabd8919a17d106.52pokemon.top/api/v1/client/subscribe?token=8949b177fcce579e75a0f6b1178ea72c
+https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+https://svip.365cloud.me/api/v1/client/subscribe?token=052c9e50d599854b53357e14157fd1d8
+http://msvpn.gougouvpn.xyz:88/api/v1/client/subscribe?token=ef7fe3ef9481e7d8b5894f750bd3d69b
+https://sub.chasing.sbs:21600/api/v1/client/subscribe?token=0283f58bbc10bdcec24ce46ad4ffa82d
+https://16th.sub-airport.com/api/v1/client/subscribe?token=f9ff9457723b9583c3e585e2cbf8fb62
