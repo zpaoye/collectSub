@@ -1,6 +1,5 @@
-https://sub123.71345.xyz/api/v1/client/subscribe?token=f0858ff0a06e3e5c377ab69522abc04d
-https://mc.jiedianxielou.workers.dev
-https://subs.zeabur.app/clash
-http://dy.hpyjc.top/api/v1/client/subscribe?token=8cae880911989d6244ee7d24d400dabc
-https://linke.phantasy.life/api/v1/client/subscribe?token=0072d7d5b225b936675b2f6d5e87d9de
-https://cloud.asdkd.top//link/LVzsp3GqQo42n19w?clash=1
+https://mc.jiedianxielou.workers.dev/
+https://sub1.tg-mfjd666.cloudns.be/api/v1/client/subscribe/token=598adee7147c414593f29c74cfade831f4d95313f786bb749ca643ea23bb0fd3
+http://msvpn.gougouvpn.xyz:88/api/v1/client/subscribe?token=9ff4246cba59721acc3c74bd893d1886
+https://sub123.71345.xyz/api/v1/client/subscribe?token=67d0e817bbb631b2aa14bfe031334415
+https://s1.bnsubservdom.com/api/v1/client/subscribe?token=ddb812c71b22cf41f0588e0cc487c077
