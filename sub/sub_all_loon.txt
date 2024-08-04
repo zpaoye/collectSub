@@ -1,7 +1,7 @@
 https://music.easygourl.xyz/link/vs68cXJ8nCtMD0yucOtoLTy2yKqdiT5D?config=all
-https://mc.jiedianxielou.workers.dev
+https://sub-01.767564.xyz/api/v1/client/subscribe?token=bf7830b16efdaff6c7bd7f6ec086e80f
+https://sub1.huy.0.srl/api/v1/client/subscribe?token=714709dbd3538871e4ef078e531107e0
 https://mc.jiedianxielou.workers.dev/
-https://ymzx.jiedianxielou.workers.dev/api/v1/client/subscribe?token=8dfd36317be546ce993d2fc792cbe270
-https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=1eb99cf82ea0e8893f2a57f7b1a3a72c&amp;flag=clash
-https://rss202407.mugua-sub.com/link/KJcTUT9qI39U4bMr?clash=1
+https://api.ssrsub.com/api/v1/client/subscribe?token=31cf50bb67f27e40ab48132723b2ae19
 https://b.bbydy.org/api/v1/client/subscribe?token=b5cc7efa2d437b688b2d603da9639090
+https://rss202407.mugua-sub.com/link/KJcTUT9qI39U4bMr?clash=1
