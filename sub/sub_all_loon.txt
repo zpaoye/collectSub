@@ -1,6 +1,6 @@
-https://sub-01.767564.xyz/api/v1/client/subscribe?token=bf7830b16efdaff6c7bd7f6ec086e80f
 https://music.easygourl.xyz/link/5es7NDNcGvgk0ETAF0wvdJRCrGEGvCAo?config=all
-https://mc.jiedianxielou.workers.dev
-https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://getinfo.bigbigwatermelon.com/api/v1/client/subscribe?token=d12e9b25c3d29f8722e418fd0c286af2
-https://b.bbydy.org/api/v1/client/subscribe?token=b5cc7efa2d437b688b2d603da9639090
+https://sub-01.767564.xyz/api/v1/client/subscribe?token=bf7830b16efdaff6c7bd7f6ec086e80f
+https://mc.jiedianxielou.workers.dev/
+https://csyun.t1csyun.shop/api/v1/client/subscribe?token=dacd0b7cb328441a32ab0e48862e55ed
+https://s1.bnsubservdom.com/api/v1/client/subscribe?token=c03752033d7f2b0ba9f1e8ef0b174307
+https://xn--94q649dc94a.com/api/v1/client/subscribe?token=7e867351f23becfac70653e6d0214c94
