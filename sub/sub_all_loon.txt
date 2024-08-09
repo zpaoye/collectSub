@@ -1,9 +1,4 @@
-https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://music.easygourl.xyz/link/vs68cXJ8nCtMD0yucOtoLTy2yKqdiT5D?config=all
-https://sub-01.767564.xyz/api/v1/client/subscribe?token=bf7830b16efdaff6c7bd7f6ec086e80f
-https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=b34b2e4e8eeec829e368fd631b20fbd1
-https://svip.365cloud.me/api/v1/client/subscribe?token=60aae69790a7f05417038e9815019620
-https://mc.jiedianxielou.workers.dev
 https://getinfo.bigbigwatermelon.com/api/v1/client/subscribe?token=a3fe37757d77f2e3b46036ef1aebf864
-https://s1.bnsubservdom.com/api/v1/client/subscribe?token=ddb812c71b22cf41f0588e0cc487c077
-https://sub.marsix.cc/api/v1/client/subscribe?token=dea7a8cb1499eb7b61c627049a9c2493
+https://su-b.yun.cat/api/v1/client/subscribe?token=75e8a0dfe32733a947ea0a526ba26fc2
+https://mc.jiedianxielou.workers.dev/
+https://wws.s2fjeyeeyafe.bond/api/v1/client/subscribe?token=a4bb2d2a253a62b0a105b92ee4aa8e18&amp;flag=meta
