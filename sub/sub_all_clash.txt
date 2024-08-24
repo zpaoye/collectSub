@@ -1,8 +1,7 @@
-http://dishujichang.xyz/api/v1/client/subscribe?token=6b21c7b1788c1c179bbeadc7ba40b001
-https://17852.xyz/api/v1/client/subscribe?token=340ea2540b69f18325e6f32aaa5fe1cc
-https://gx.591haoka.com/api/v1/client/subscribe/token=9e48312624d64c219f8e7u9af55b4k238bh7
-https://jlhcloud.us.kg/api/v1/client/subscribe?token=7f6d50b947f081ddaaf77a2ab75379f5
-https://lianjiasub.work/api/v1/client/subscribe?token=0e8c48216aedec40cc2f52b229d838c7
-https://link.esnclink.com/api/v1/client/subscribe?token=b75ce16c260df26917ea4397424c2d0d
-https://linke.phantasy.life/api/v1/client/subscribe?token=0072d7d5b225b936675b2f6d5e87d9de
-https://st-sub.fly.dev/v2b/fast/api/v1/client/subscribe?token=111995bc7081abfb6d65b73f702deef7&amp;flag
+https://a.jiedianxielou.workers.dev/api/v1/client/subscribe?token=UjBGOXVrdFBKYzl0dE04ODdacUFzOTlrTU04RGtOWk0vRUZzMGNUYWdTN0NoZ1pCVkR4ZnRpbW1iWmZDM2wvd3RVeFY3ekM4aHRwNmhIS0UrYkFhQlRHY1NBZWdxYnlEVkNlK2lpRW5aZ1M3RWN0Y1VvVT0
+https://b.bbydy.org/api/v1/client/subscribe?token=b5cc7efa2d437b688b2d603da9639090
+https://cainiao164.top/api/v1/client/subscribe?token=a720b7622324a62743b933456b33ed69
+https://fhfdf.ghkjfgjkdfghrjfghjvbnm.cfd/api/v1/client/subscribe?token=14109791b5eb58eb27578e49d91b0bdd
+https://hongxingdl.com/ry1rw2ni?token=630937a6d546933aff7addf02355c839
+https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+https://music.easygourl.xyz/link/IZL3EGvwN2i704vhJXXDAIWhzSnU6NGM?client=clash
