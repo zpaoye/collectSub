@@ -1,5 +1,4 @@
 https://mydy.xlm.plus/api/v1/client/subscribe?token=50c4667e9520358330737c6307dfdb52
-https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://user.1vpn.sbs/api/v1/client/subscribe?token=6f5241982cdfdc7dbe0bbcc381e8b7da
 https://mc.jiedianxielou.workers.dev
-https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=1eb99cf82ea0e8893f2a57f7b1a3a72c&amp;flag=clash
+https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+https://mc.jiedianxielou.workers.dev/
