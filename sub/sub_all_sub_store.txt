@@ -23,9 +23,6 @@ https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?
 https://linke.phantasy.life/api/v1/client/subscribe?token=0072d7d5b225b936675b2f6d5e87d9de
 https://lianjiasub.work/api/v1/client/subscribe?token=0e8c48216aedec40cc2f52b229d838c7
 https://mydy.xlm.plus/api/v1/client/subscribe?token=4997f8b836b11526f0ca837e7c9e1115
-https://zero.76898102.xyz/link/CsElTBN1F3RqmjjQ?list=shadowrocket
-https://zero.76898102.xyz/link/T0MDjg1bJK13JKbv?list=shadowrocket
-https://zero.76898102.xyz/link/VJ93O5K98PneMoAA?list=shadowrocket
 https://zero.76898102.xyz/link/tm3RQPCHyZNqnEjg?list=shadowrocket
 https://sub.cokecloud.world/api/v1/client/subscribe?token=7f3929bf59f27b8a72a56f79c2696489
 https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=7eb7f9c181fe90a98a53d28b1a905b5d
@@ -42,7 +39,6 @@ https://38.181.25.67/api/v1/client/subscribe?token=9fbba2d5e199b0a8fb1fb3f27538c
 https://music.easygourl.xyz/link/HxY88neuT7LKwCeD924p7XR7D1Rfeo16?clash=1
 https://linke.phantasy.life/api/v1/client/subscribe?token=881e3b9aa28e204bf363c94ecc40ff11
 https://link1.db-sub.xyz/link/c0m1TKa0rHNSXjP4?list=shadowrocket
-https://duijie.pingziyun.top/api/v1/client/subscribe?token=94e912f06bd687f53837dc19718e6caf
 https://music.easygourl.xyz/link/T0SulVqfmruC1mRGQy4YuNSRHr6e57Qo?config=all
 https://xboard.texo.network/api/v1/client/subscribe?token=2cb102a47330e4d23aefa6fc48cf5bc4
 https://www.tannel.xyz/link/UschoWctNOC78yhs?sub=3
