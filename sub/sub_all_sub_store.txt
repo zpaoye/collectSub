@@ -47,7 +47,6 @@ https://b.bbydy.org/api/v1/client/subscribe?token=b5cc7efa2d437b688b2d603da96390
 https://cloud.asdkd.top//link/Gjv67p0oYsGI7J3c?sub=3
 https://s1.bnsubservdom.com/api/v1/client/subscribe?token=ddb812c71b22cf41f0588e0cc487c077
 https://duijie.pingziyun.top/api/v1/client/subscribe?token=f886fedc5b027490060ae32104a2b553
-https://sux.lol/api/v1/client/subscribe?token=37a14d01b2277276853af9b8fdea5e89&amp;flag=meta
 https://server.fylink.link/api/public/sub/0d18e43cbd27444a82b67b9b49b973f0/FYLink
 https://server.fylink.link/api/public/sub/8fa7c0881462480d909e6a1875e039e7/FYLink
 https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009
