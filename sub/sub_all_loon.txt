@@ -1,5 +1,5 @@
-https://mydy.xlm.plus/api/v1/client/subscribe?token=50c4667e9520358330737c6307dfdb52
-https://sub3.gfw.gg/api/v1/client/subscribe?token=fc9086228dc6d47c1ca815b23157e0e5
+https://mydy.xlm.plus/api/v1/client/subscribe?token=2394b7914923c56721f7d27c3689f74f
+https://cdn.fraternizey.com/api/v1/client/subscribe?token=de6452de3a631d1006da3981fef4430a
 https://mc.jiedianxielou.workers.dev/
-https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=b34b2e4e8eeec829e368fd631b20fbd1
-https://mc.jiedianxielou.workers.dev
+https://ymzx.jiedianxielou.workers.dev/api/v1/client/subscribe?token=8dfd36317be546ce993d2fc792cbe270
+https://linke.phantasy.life/api/v1/client/subscribe?token=881e3b9aa28e204bf363c94ecc40ff11
