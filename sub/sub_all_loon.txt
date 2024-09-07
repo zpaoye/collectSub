@@ -1,4 +1,5 @@
-https://zhuiyun.shop/api/v1/client/subscribe?token=254fe05c8401025f322c061e9b211797
+https://mc.jiedianxielou.workers.dev
 https://mc.jiedianxielou.workers.dev/
 https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://server.fylink.link/api/public/sub/b5d084e828f44f8b8518112cb19939e8/FYLink
+https://board.nsde.date/api/v1/client/subscribe?token=84e28dd2b42173a927d7e39896350cdd
+https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009/FYLink
