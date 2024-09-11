@@ -1,6 +1,5 @@
+https://music.easygourl.xyz/link/vs68cXJ8nCtMD0yucOtoLTy2yKqdiT5D?config=all
 https://su-b.yun.cat/api/v1/client/subscribe?token=75e8a0dfe32733a947ea0a526ba26fc2
-https://cloud.asdkd.top//link/Gjv67p0oYsGI7J3c?sub=3
-http://s.33y.run/v3/subscr?id=cb971d1363e54209a70efbce92ce41ef
-https://csgo.fask511.cfd/api/v1/client/subscribe?token=b3a4ebe842dd5365ebc7820c647620dd
-https://mc.jiedianxielou.workers.dev
-https://server.fylink.link/api/public/sub/8fa7c0881462480d909e6a1875e039e7/FYLink
+https://sub.cokecloud.world/api/v1/client/subscribe?token=7f3929bf59f27b8a72a56f79c2696489
+https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009
