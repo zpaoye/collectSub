@@ -1,8 +1,9 @@
+https://16th.sub-airport.com/api/v1/client/subscribe?token=f9ff9457723b9583c3e585e2cbf8fb62
 https://api-zz.xn--14ra41gd24b.xyz/api/v1/client/subscribe?token=3df39719aadc30954859a312a7715447
-https://b.jiedianxielou.workers.dev/api/v1/client/subscribe?token=lyzFWcWwki0xx8yFuq4uZwo0d6f0fKq4tDshF8KYLaXbReQeHesu36j9DY4YtkU96pii94VYsuogt1E9PK0LTKdv4mhRkTG80vrylw
-https://config.huojian111.com/link/57BXs2kcnyMZ1sJ3?sub=3
-https://dingyue.trojanws.xyz/api/v1/client/subscribe?token=8ecf59b49c4a8893221934d0fc2c1986
-https://jixingnetwork.sbs/api/v1/client/subscribe?token=bb6c1f203b9e3e565125f3b78c611794
-https://linke.phantasy.life/api/v1/client/subscribe?token=0072d7d5b225b936675b2f6d5e87d9de
-https://s1.bnpublicsub.com/api/v1/client/subscribe?token=0ddb873fe9b1743f95dd8cd8fe890c44
-https://sub-01.767564.xyz/api/v1/client/subscribe?token=de4a0ea7b988afba1a1072a3288d5390
+https://api.xinyo.vip/api/v1/client/subscribe?token=825684aa7107efeabe525c12bd10bd02
+https://csgo.fask511.cfd/api/v1/client/subscribe?token=f14e52e1b15c6547e982b23481533e87
+https://getinfo.bigwatermelon.org/api/v1/client/subscribe?token=f5bc22005796dfccb69d10bec1e1f8f2
+https://s1.bnsubservdom.com/api/v1/client/subscribe?token=ddb812c71b22cf41f0588e0cc487c077
+https://server.fylink.link/api/public/sub/b5d084e828f44f8b8518112cb19939e8/FYLink
+https://service-6l9168iy-1312645837.gz.apigw.tencentcs.com/api/v1/client/subscribe?token=50cce61874b985c0c99e50c6f659f20e
+https://wm01dy.wmyun.men/api/v1/client/subscribe?token=c91d2a7db727bb5cb0586e654f3d0948
