@@ -1,7 +1,8 @@
-https://12123.org/api/v1/client/subscribe?token=758b131f7985f3fd39552d9893e579cc
-https://a.jiedianxielou.workers.dev/api/v1/client/subscribe?token=UjBGOXVrdFBKYzlqdnBCdThOZUx1b2xoT1loVW41MU0vbDFzbTl5ZmdUN2JqUkJNVW5wT3BuU2hZWTdPMGdmN28wRmN2enExMjR0ejBTU0gvZVllQ1RLWkhRVHpyN0tIV2kyMjBpNGdNQT09
-https://api.xinyo.vip/api/v1/client/subscribe?token=bb57e2195a6cabe24ed9469b3669aa0d
-https://dingyue.trojanws.xyz/api/v1/client/subscribe?token=eb422ab6820bb79f8af2f82c05de5525
-https://dy.smjc.top/api/v1/client/subscribe?token=1edf7f913abc80a550a1bba44361dc2c
-https://getafreenode.com/subscribe/?uuid=5af5e263-f03e-4329-a4c5-9aac626efdc2
-https://mo.mojieurl.com/api/v1/client/subscribe?token=9ad15bbfc9b8dc881009a125f14f22aa
+https://linke.phantasy.life/api/v1/client/subscribe?token=0072d7d5b225b936675b2f6d5e87d9de
+https://a.jiedianxielou.workers.dev/api/v1/client/subscribe?token=UjBGOXVrdFBKYzlvNDRsNHQ4eUVzTVZzSnBRZng5Z003UjVranR2RTJIeUJqQTlHUlgxWTdEaWdiSmJJemxPdHBCeEs1VFhrMFlKNjBYblRxTDBhQ1RPYkdWU20vdXJXQUMyd2lISW5ZRmUxUWNoV0NOUlZDMGc9
+https://mojie.app/api/v1/client/subscribe?token=ce77d629eb0bcea28739ffefa5620218
+https://proc.xn--l9qyaz082a.cn/api/v1/client/subscribe?token=bd059c4675989a3d648768746743067d
+https://a.jiedianxielou.workers.dev/api/v1/client/subscribe?token=bHl6RldjV3draTAyMjlHSXR2VW9haFk0ZE9iNWQ3eTVyVEl5RjlqQWJLMlliY2NkQUxVcG5wemFKN0JEdjFsbTZKTzVvS1lvenVCMW9TQWZTcW8vWStWZ3VUQmF6anJwMksrbXloTGhWS25KRWY2cUFVWT0
+https://time1721057549.nginxcaiyun.xyz/api/v1/client/subscribe?token=0b02e082e6dddee3f782213be16674d0
+https://xsus.wiki/api/v1/client/subscribe?token=d0bd22a534e76a5eb6aca4f3e60b5af5&amp;flag=clash
+https://ymzx.jiedianxielou.workers.dev/api/v1/client/subscribe?token=8dfd36317be546ce993d2fc792cbe270
