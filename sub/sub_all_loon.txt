@@ -1,4 +1,5 @@
 https://mc.jiedianxielou.workers.dev
-https://qyoo.aibvs.cn/api/v1/client/subscribe?token=d1238234772e17cc53229bcbb74980ed
-https://www.ginfem.com/link/J9AHBgJkY0YkRQwM?clash=1
-https://free.ninecloud.co/api/v1/client/subscribe?token=afe275d64d5b2295be847cf4fafe5428
+https://mc.jiedianxielou.workers.dev/
+https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=b34b2e4e8eeec829e368fd631b20fbd1
+https://getinfo.bigbigwatermelon.com/api/v1/client/subscribe?token=df6c8f83f5d2b40eda2334475632f856
+http://6b.zhunchuanpb.com/api/v1/client/subscribe?token=4e535a0fa62acb50f2fda66a8d48e8ed
