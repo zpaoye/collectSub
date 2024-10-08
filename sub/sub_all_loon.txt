@@ -1,5 +1,7 @@
-https://mc.jiedianxielou.workers.dev
-https://subs.zeabur.app/clash
+https://gx.591haoka.com/api/v1/client/subscribe/token=9e48312624d64c219f8e7u9af55b4k238bh7
 https://subs.doubao.one/api/v1/client/subscribe?token=f827b2109f4fd0072730269a122c51b0
-https://sub123.71345.xyz/api/v1/client/subscribe?token=b34b2e4e8eeec829e368fd631b20fbd1
+https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
+http://6b.zhunchuanpb.com/api/v1/client/subscribe?token=4e535a0fa62acb50f2fda66a8d48e8ed
+https://ymzx.jiedianxielou.workers.dev/api/v1/client/subscribe?token=8dfd36317be546ce993d2fc792cbe270
 https://b.bbydy.org/api/v1/client/subscribe?token=b5cc7efa2d437b688b2d603da9639090
