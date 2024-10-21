@@ -1,5 +1,5 @@
-https://qq.xlm.plus/api/v1/client/subscribe?token=e9f54fc921fe52a8d04d618fb8616f6f
-https://csgo.fask511.cfd/api/v1/client/subscribe?token=f14e52e1b15c6547e982b23481533e87
-https://subs.zeabur.app/clash
-https://sub.no626.link/api/v1/client/subscribe?token=fc687d8abddb3ff621284cd388faabf5
-https://server.fylink.link/api/public/sub/b50f8491769c4c7582115d402b844660/FYLink
+https://pavo.eu.org/api/v1/client/subscribe?token=4336f829537b98be8cb36254a33ad528
+https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
+https://ymzx.jiedianxielou.workers.dev/api/v1/client/subscribe?token=8dfd36317be546ce993d2fc792cbe270
+https://sub123.71345.xyz/api/v1/client/subscribe?token=95388132afab15570d496c96fe99474d
+https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009/FYLink
