@@ -1,8 +1,9 @@
-http://csgo3.fask511.cfd:1588/api/v1/client/subscribe?token=79433825d5d6bc51906c5d9d6b68a97e
+https://16th.sub-airport.com/api/v1/client/subscribe?token=f9ff9457723b9583c3e585e2cbf8fb62
 https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=ssr&amp;trojan
-https://mojie.app/api/v1/client/subscribe?token=ce77d629eb0bcea28739ffefa5620218
-https://mc.jiedianxielou.workers.dev
-https://node.yifang02.men/link/ryh0DwsGEWclH26m?sub=4
-https://pavo.eu.org/api/v1/client/subscribe?token=4336f829537b98be8cb36254a33ad528
-https://linke.phantasy.life/api/v1/client/subscribe?token=1cc7a298ad12e7ac0dfd87f579da2023
-https://s1.bnsubservdom.com/api/v1/client/subscribe?token=ddb812c71b22cf41f0588e0cc487c077
+https://dadada.acaisbest.com/api/v1/client/subscribe?token=7ae043ed0ade0e99ea6a4a3d0ead276e
+https://dingyue.trojanws.xyz/api/v1/client/subscribe?token=8ecf59b49c4a8893221934d0fc2c1986
+https://dzpd.jiedianxielou.workers.dev/api/v1/client/subscribe?token=bf64cd2b19ee10e66068fd94e335af79
+https://getinfo.bigwatermelon.org/api/v1/client/subscribe?token=239bf6f70499ff0f80ca081f0a831d04
+https://jixingnetwork.sbs/api/v1/client/subscribe?token=bb6c1f203b9e3e565125f3b78c611794
+https://pavo.eu.org/api/v1/client/subscribe?token=f548cee7fef0b06cbed0983c7cd901d2
+https://zqjc.org/api/v1/client/subscribe?token=90bf1e7381a3e9597b8b0bcb69028fc2&amp;types=vless
