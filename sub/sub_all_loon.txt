@@ -1,5 +1,7 @@
-https://api.fenghuolun.xyz/api/v1/client/subscribe?token=a9236b831f8019a4914004d9dabca481
-https://api.fenghuolun.xyz/api/v1/client/subscribe?token=0760bb28173ccd9e23439f0fb97f834b
-https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://csgo.fask511.cfd/api/v1/client/subscribe?token=f14e52e1b15c6547e982b23481533e87
-https://hongxingdl.com/hxvip?token=75540cdc521f31aa0df46a6fa73be722
+https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=1eb99cf82ea0e8893f2a57f7b1a3a72c&amp;flag=clash
+https://mc.jiedianxielou.workers.dev
+https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
+https://s1.bnsubservdom.com/api/v1/client/subscribe?token=c03752033d7f2b0ba9f1e8ef0b174307
+https://sub.cjcloud.cc/api/v1/client/subscribe?token=f0f3bfe984d260e8d7fc39bdc495f782
+https://b.bbydy.org/api/v1/client/subscribe?token=b5cc7efa2d437b688b2d603da9639090
+https://api.fenghuolun.xyz/api/v1/client/subscribe?token=c097aa209f8544db707e0eeb6c497d28
