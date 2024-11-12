@@ -1,7 +1,5 @@
-https://mc.jiedianxielou.workers.dev/
-https://sub123.71345.xyz/api/v1/client/subscribe?token=95388132afab15570d496c96fe99474d
-https://www.cwy-water.us.kg/api/v1/client/subscribe?token=daa0f9c43c5b7f91a08aee21dab0138c
 https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://rss202407.mugua-sub.com/link/KJcTUT9qI39U4bMr?clash=1
-https://sub.nodeup.top/IBMQR/MXW62/JK?token=91bf4ef97b726c0d7f403c575f30ed66
-https://server.fylink.link/api/public/sub/b5d084e828f44f8b8518112cb19939e8/FYLink
+https://a1.8jiasu.com/api/v1/client/subscribe?token=fe6b4b8e17135129f6836a85c1d63083
+https://mc.jiedianxielou.workers.dev/
+https://server.fylink.link/api/public/sub/0d18e43cbd27444a82b67b9b49b973f0/FYLink
+https://server.fylink.link/api/public/sub/b50f8491769c4c7582115d402b844660/FYLink
