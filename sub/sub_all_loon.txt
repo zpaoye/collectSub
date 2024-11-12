@@ -1,7 +1,6 @@
-https://cdnbao.foxi4.com/api/v1/client/subscribe?token=5ef4dacfd1d3045a0bd0088dc732233a
-https://www.cwy-water.us.kg/api/v1/client/subscribe?token=daa0f9c43c5b7f91a08aee21dab0138c
-https://a.aikllc.tech/api/v1/client/subscribe?token=9a6b1bf0dd3469fc0fe3bc79a2b0ba92
 https://airport.raloar.top/api/v1/client/subscribe?token=f6f95acd161b7e014c074dee0135d323&amp;flag=meta
-https://rss202407.mugua-sub.com/link/KJcTUT9qI39U4bMr?clash=1
-https://s1.bnpublicsub.com/api/v1/client/subscribe?token=0ddb873fe9b1743f95dd8cd8fe890c44
-https://s1.bnsubservdom.com/api/v1/client/subscribe?token=ddb812c71b22cf41f0588e0cc487c077
+https://a.aikllc.tech/api/v1/client/subscribe?token=9a6b1bf0dd3469fc0fe3bc79a2b0ba92
+https://sub123.71345.xyz/api/v1/client/subscribe?token=95388132afab15570d496c96fe99474d
+https://linke.phantasy.life/api/v1/client/subscribe?token=0072d7d5b225b936675b2f6d5e87d9de
+https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009
+https://sub123.71345.xyz/api/v1/client/subscribe?token=7eb7f9c181fe90a98a53d28b1a905b5d
