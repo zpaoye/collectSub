@@ -1,7 +1,6 @@
-https://app.jisovpn.site/api/v1/client/subscribe?token=352049eecc0d30658488bcf11184018e
-https://hongxingdl.com/hxvip?token=3343b33b1e9b1c927a48c9a6e631dff0
-https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://sub123.71345.xyz/api/v1/client/subscribe?token=b34b2e4e8eeec829e368fd631b20fbd1
-https://server.fylink.link/api/public/sub/8fa7c0881462480d909e6a1875e039e7/FYLink
+https://csgo.fask511.cfd/api/v1/client/subscribe?token=f14e52e1b15c6547e982b23481533e87
+https://ymzx.jiedianxielou.workers.dev/api/v1/client/subscribe?token=8dfd36317be546ce993d2fc792cbe270
+https://b.bbydy.org/api/v1/client/subscribe?token=b5cc7efa2d437b688b2d603da9639090
+https://server.fylink.link/api/public/sub/0d18e43cbd27444a82b67b9b49b973f0/FYLink
+https://www.laoniu49.top/api/v1/client/subscribe?token=5a26034d8f260d5c175a4354d8bd5a1a
 https://rss202407.mugua-sub.com/link/KJcTUT9qI39U4bMr?clash=1
-https://study.jaycloud11111.top/study?token=ea9d115179b89ad752737bceaf1d1ce6
