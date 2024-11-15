@@ -1,7 +1,5 @@
-https://mc.jiedianxielou.workers.dev
-https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
-https://mc.jiedianxielou.workers.dev/
-https://linke.phantasy.life/api/v1/client/subscribe?token=1cc7a298ad12e7ac0dfd87f579da2023&amp;flag=meta
-https://1.bethebest.eu.org/api/v1/client/subscribe?token=ef027a5bfc788a6b7eddcc859a078b14
-https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009/FYLink
-https://sub123.71345.xyz/api/v1/client/subscribe?token=95388132afab15570d496c96fe99474d
+https://sub123.71345.xyz/api/v1/client/subscribe?token=b34b2e4e8eeec829e368fd631b20fbd1
+https://ck2.yunxiangvip.mom/api/v1/client/subscribe?token=f24ac678c3991a445cfdb273e52f8d91
+https://pavo.eu.org/api/v1/client/subscribe?token=f548cee7fef0b06cbed0983c7cd901d2
+https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=1eb99cf82ea0e8893f2a57f7b1a3a72c&amp;flag=clash
+https://hongxingdl.com/hxvip?token=2f9906bc94777354f1161251d370abfa
