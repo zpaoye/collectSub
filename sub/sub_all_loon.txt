@@ -1,6 +1,4 @@
-https://su.xfjhchr.com:8888/api/v1/client/subscribe?token=278ca840bd2ab61ed088bb34f6eada4b
-https://ymzx.jiedianxielou.workers.dev/api/v1/client/subscribe?token=8dfd36317be546ce993d2fc792cbe270
-https://mc.jiedianxielou.workers.dev/
-http://ly.ccwink.cc/api/v1/client/subscribe?token=74faf7ece2277eb094d5709e05ca1986
+https://linke.phantasy.life/api/v1/client/subscribe?token=1cc7a298ad12e7ac0dfd87f579da2023
 https://sub123.71345.xyz/api/v1/client/subscribe?token=b34b2e4e8eeec829e368fd631b20fbd1
-https://server.fylink.link/api/public/sub/b5d084e828f44f8b8518112cb19939e8/FYLink
+https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009
+https://www.catssr.xyz/api/v1/client/subscribe?token=2f36e87157bf9fc79bce325bc6e804c3
