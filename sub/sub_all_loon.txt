@@ -1,4 +1,5 @@
-https://sub123.71345.xyz/api/v1/client/subscribe?token=95388132afab15570d496c96fe99474d
-https://csgo.fask511.cfd/api/v1/client/subscribe?token=f14e52e1b15c6547e982b23481533e87
+https://cloudfisher.net/jsk34?token=e5916b09811c8e5071ea910b88c54f37
+https://sub.cokecloud.world/api/v1/client/subscribe?token=7f3929bf59f27b8a72a56f79c2696489
 https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
-https://server.fylink.link/api/public/sub/0d18e43cbd27444a82b67b9b49b973f0/FYLink
+http://em7.buzz/v3/subscr?id=377bf036b6b24867bf3adbeb24a90326
+https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009
