@@ -1,9 +1,6 @@
 http://101.200.14.80:3325/api/v1/client/subscribe?token=4bbd5149d786e6ead646d4b5bbaee6a8
-https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=db8f691dbae4050ab22e5fe68351befb&amp;flag=clash
-https://cat.ikkt.cn/api/v1/client/subscribe?token=2f36e87157bf9fc79bce325bc6e804c3
-https://rss202407.mugua-sub.com/link/KJcTUT9qI39U4bMr?clash=1
-https://sakuracat1203.xn--3iq226gfdb94q.com/api/v1/client/subscribe?token=d14d8550cc425bdf8e44e2a6c9951759
-https://smallairport-first-sub.top/api/v1/client/subscribe?token=accedcd63928dbc35bd6223ebe7f446f
-https://sub.xn--9kqt24a0kz.com/xiaomi?token=74741ae03b85a930b878fb7db9eba7b9
-https://update.glados-config.com/clash/453205/fa870f5/25488/glados.yaml
-https://www.kuaidog008.top/api/v1/client/subscribe?token=daf0a00c2fb6f609d816597f4c2bda51
+https://st-sub.fly.dev/v2b/fast/api/v1/client/subscribe?token=111995bc7081abfb6d65b73f702deef7&amp;flag
+https://cdn1711437153.ppgnginx.com/api/v1/client/subscribe?token=37536af5f39e95dc9aed38399fac8ad4
+https://node.yifang02.men/link/ryh0DwsGEWclH26m?sub=4
+https://ss.81dlg.com/dy/ss?token=e9abd1bbf167f3cee14ba7dd765e94b3
+https://sub.tku2.com/api/v1/client/subscribe?token=e9469e8820dd39b84459c60d944b9c10
