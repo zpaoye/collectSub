@@ -1,6 +1,11 @@
-https://1.bethebest.eu.org/api/v1/client/subscribe?token=ef027a5bfc788a6b7eddcc859a078b14
-https://2381bfde-8c93-4701-8f14-24f071067a1a.nginx24bit.xyz/api/v1/client/subscribe?token=7a34a7e4d092c4bc11064c4ca594a15c
-https://api.xqc.best/api/v1/client/subscribe?token=116ea138d237fe0cfa8e51c114062aae
+https://subscribe.insidergame.xyz/api/v1/client/subscribe?token=b8c7f5d1cec04b203b0e8f50c6c56a3c
+http://101.200.14.80:3325/api/v1/client/subscribe?token=4bbd5149d786e6ead646d4b5bbaee6a8
+https://dd.moonriver.cfd/api/v1/client/subscribe?token=2f357d08492582d684f8493f1aa0967c
+https://ipngc.no-mad-world.club/link/nnaCD6oVR3L5GrBq?shadowrocket=1
+https://new.xn--pbt38zg4v.com/api/v1/client/subscribe?token=8fa30b28405c5a0bf1b545bb329102d5
+https://ss.81dlg.com/dy/ss?token=d95165e97d96980b87342d4d3fbc01d8
+https://sub.miaolianyun.vip/mly_sub?token=017f70e313654618f05256ef4b1230ee
+https://sub.xinyo.vip/api/v1/client/subscribe?token=191ff749aef5fc340847cb7b846e8be1
+https://www.catssr.host/api/v1/client/subscribe?token=2f36e87157bf9fc79bce325bc6e804c3
+https://www.lbxjc.online/api/v1/client/subscribe?token=dfed0910310aed1ca8a28e33c813d925
 https://zjsub.gitpub.top/api/v1/client/subscribe?token=140c71acf1ef34766c267f9ea36ba79f
-https://sub.miaolianyun.vip/mly_sub?token=6e679a0627abe4887ac41dff4344c505
-https://sub.miaolianyun.vip/mly_sub?token=bb8d2654de827e86cee36879fd3c5697
