@@ -1,5 +1,9 @@
+https://2381bfde-8c93-4701-8f14-24f071067a1a.nginx24bit.xyz/api/v1/client/subscribe?token=7a34a7e4d092c4bc11064c4ca594a15c
+http://g3i.buzz/v3/subscr?id=c64d8ba46be149169bb8651d41173901
+https://l.db-link01.top/link/BauoUCZPTZWvzQgK?clash=1
+https://cloudcat.top/api/v1/client/subscribe?token=3982e1e7a7816118fe6601fdd8f0e951
+https://cpdd.one/sub?token=004c8f491fd34b029cd81badf89f8ced
+https://update.glados-config.com/clash/453205/fa870f5/25488/glados.yaml
 https://oss.pithecia.com/api/v1/client/subscribe?token=483fcb626307bfbe1b4e67b6cdad87b7
-https://pqjc.site/api/v1/client/subscribe?token=d66c5de5dddd6e0b44ff6c8382a411b6&amp;flag=meta
-https://server.fylink.link/api/public/sub/b5d084e828f44f8b8518112cb19939e8/FYLink
-https://ss.81dlg.com/dy/ss?token=e2f5bcc06458c550cdb0fcd89508d33f
-https://update.glados-config.com/clash/478427/f88d37b/72376/glados.yaml
+https://pqjc.site/api/v1/client/subscribe?token=5d5da3b602584a2760827e7fd0fd34e7
+https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009
