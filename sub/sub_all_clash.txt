@@ -1,7 +1,8 @@
-https://cat.ikkt.cn/api/v1/client/subscribe?token=bf587ad6317f74983bb98612a522a196
-https://gbtgurl.me/api/v1/client/subscribe?token=01187f2b47200eb4794f3cb803666494
-https://kobee.metatai.xyz/api/v1/client/subscribe?token=289ac9d51e39addabc08741586e88fbb
-https://node.yifang02.men/link/ryh0DwsGEWclH26m?sub=4
-https://server.fylink.link/api/public/sub/b5d084e828f44f8b8518112cb19939e8/FYLink
-https://www.kuaidog008.top/api/v1/client/subscribe?token=09266cd2f72f9f6a82ca249d1147aa37
-https://xn--fhqu06a8m1asto.icu/linju?token=b12082b5d7004322c953cfef00fed360
+http://g3i.buzz/v3/subscr?id=c64d8ba46be149169bb8651d41173901
+https://linke.phantasy.life/api/v1/client/subscribe?token=1cc7a298ad12e7ac0dfd87f579da2023&amp;flag=meta
+https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009/FYLink
+https://st-sub.fly.dev/v2b/fast/api/v1/client/subscribe?token=111995bc7081abfb6d65b73f702deef7&amp;flag
+https://sub.xn--9kqt24a0kz.com/xiaomi?token=74741ae03b85a930b878fb7db9eba7b9
+https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
+https://subscribe.fastsocks.xyz/api/v1/client/subscribe?token=f97e106e0ffd3eddb203e1fd21acfb7b
+https://vot.278986.xyz/api/v1/client/subscribe?token=5596c41f1db48da17b8271aa6975016b
