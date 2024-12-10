@@ -1,5 +1,8 @@
-https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
-http://g3i.buzz/v3/subscr?id=0998cfcf655b4e618b3a267fd3176a7a
-https://sub123.71345.xyz/api/v1/client/subscribe?token=95388132afab15570d496c96fe99474d
+https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+https://mc.jiedianxielou.workers.dev
 https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=1
-https://server.fylink.link/api/public/sub/b5d084e828f44f8b8518112cb19939e8/FYLink
+https://sub123.71345.xyz/api/v1/client/subscribe?token=95388132afab15570d496c96fe99474d
+https://sub.xn--9kqt24a0kz.com/xiaomi?token=12ec3891d9cc325eb57a263e3fd5d418
+https://088EA81A-3547-85E0-4AF6-DFCB3C6674AA.372372.xyz/api/v1/client/subscribe?token=d3065c795c0ea07c325756a2515708d9
+https://s.33y.run/v3/subscr?id=0ba4a24015864a54929c26389c8a4111
+https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009/FYLink
