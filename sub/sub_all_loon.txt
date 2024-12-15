@@ -1,5 +1,6 @@
-http://em7.buzz/v3/subscr?id=5359840131e14ce3bb2e6c00a8fc3e01
+https://subscribe.fastsocks.xyz/api/v1/client/subscribe?token=9f0fb26b13d8f4f3063fcf8c46734523
+https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=ssr&amp;trojan
 https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=1
-https://mc.jiedianxielou.workers.dev
-https://sub.yslink.cc/api/v1/client/subscribe?token=c9247b94038cf17070932b40bef7509b
-https://zjsub.gitpub.top/api/v1/client/subscribe?token=140c71acf1ef34766c267f9ea36ba79f
+https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
+https://sub.cokecloud.world/api/v1/client/subscribe?token=7f3929bf59f27b8a72a56f79c2696489
+https://vt.louwangzhiyu.xyz/api/v1/client/subscribe?token=15af0f3751d9f46e6d26b79972adf3f4
