@@ -1,5 +1,4 @@
-https://api-zz.xn--14ra41gd24b.xyz/api/v1/client/subscribe?token=3df39719aadc30954859a312a7715447
-https://mc.jiedianxielou.workers.dev/
-https://mc.jiedianxielou.workers.dev
-http://g3i.buzz/v3/subscr?id=c64d8ba46be149169bb8651d41173901
-https://server.fylink.link/api/public/sub/b5d084e828f44f8b8518112cb19939e8/FYLink
+https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+https://sub.cokecloud.world/api/v1/client/subscribe?token=7f3929bf59f27b8a72a56f79c2696489
+https://www.066664.xyz/api/v1/client/subscribe?token=5ec34216e7bbd89ef9cbe2741ebe3f7d&amp;flag=clash
+https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=1eb99cf82ea0e8893f2a57f7b1a3a72c&amp;flag=clash
