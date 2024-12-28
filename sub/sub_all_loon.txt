@@ -1,6 +1,7 @@
-https://a.aikllc.tech/api/v1/client/subscribe?token=9a6b1bf0dd3469fc0fe3bc79a2b0ba92
+https://api.ssrsub.com/api/v1/client/subscribe?token=22c168a0eb606bdd60c7530f152e15b0
 https://hongxingdl.com/hxvip?token=b2577ee788cce083e4b5c65e7ada95cf
-https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=cbb31425affb0704414d28c596a57d0e
-http://fdgdr0dg3.xbvpn.vip/api/v1/client/subscribe?token=49629c746a96cb7b4eadcde75cf19bce
-https://ss.81dlg.com/dy/ss?token=c0c344484f2e4643cd72e7e438cdb5ad
-https://server.fylink.link/api/public/sub/b50f8491769c4c7582115d402b844660/FYLink
+https://c3.notesync.org/api/v1/client/subscribe?token=70Q8pahCchpkgN1rTSBS9aV3hScI6RoN
+https://www.catssr.host/api/v1/client/subscribe?token=bf587ad6317f74983bb98612a522a196
+https://xf88j.no-mad-world.club/link/HtJ7xKqcaniqXvgV?clash=3
+http://filusdt.461553.best:1588/api/v1/client/subscribe?token=9acba0c4ee1365037688fa1aebaf20cf
+https://server.fylink.link/api/public/sub/b5d084e828f44f8b8518112cb19939e8/FYLink
