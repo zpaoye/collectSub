@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
 
   schedule:
-    - cron: '5 */1 * * *'
+    - cron: '5 */2 * * *'
   watch:
     types: started
   # - cron: '0 3,12 * * *'
@@ -28,7 +28,7 @@ jobs:
         python-version: '3.x'
       
     - name: 加载缓存
-      uses: actions/cache@v2
+      uses: actions/cache@v3
       with:
         path: ~/.cache/pip
         key: ${{ runner.os }}-pip-${{ hashFiles('**/run_in_Actions/requirements.txt') }}
